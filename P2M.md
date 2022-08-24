@@ -1,10 +1,7 @@
 # P2M  
-
-## How to Create/Submit
-Tuesday, December 14, 2021	1:58 PM
-
 P2M is a secure file transfer method available to WINGS users. P2M is can be utilized to securely transfers files between detachment cadre and to regional, AFROTC, or Holm Center HQ personnel.
 
+## How to Create/Submit
 To utilize the P2M function, follow the directions below:
 
 1. Select the "Customer Service" tile
