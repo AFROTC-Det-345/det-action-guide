@@ -21,7 +21,8 @@
 2.2. Recruiting Branch (AFROTC/RRR)   
 2.3. Detachment Commander (Det/CC)  
 2.4. Recruiting Officer  
-2.5. Lead Management Section 2 – Recruiting Operations  
+2.5. Lead Management 
+### Section 2 – Recruiting Operations  
 2.6. Recruiting Advertising & Promotion (A&P) Funds  
 2.7. Funding Restrictions  
 2.8. Center of Influence (COI) Events  
@@ -40,7 +41,7 @@
 3.9. Cadet Classifications  
 3.10. Abbreviated Programs  
 3.11. Substance Abuse and Drug Demand Reduction Policy  
-Section 2 – Application Procedures  
+### Section 2 – Application Procedures  
 3.12. Applicant Actions 
 3.13. Detachment Actions Programs 
 3.14. Waiver for Cadets Dropped or Disenrolled from Previous Officer Training  
