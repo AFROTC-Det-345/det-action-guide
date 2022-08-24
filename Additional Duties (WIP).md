@@ -8,29 +8,20 @@
 
 ## Safety
 
-
 ## Uniform Property Custodian (UPC)
 
-
-## Kylock
-
+## KYLOC
 
 ## ATFP
 
-
 ## ITEC
-
 
 ## LeaveWeb
 
-
 ## Duty Status
-
 
 ## Family Care Plan
 
-
 ## IUF
-
 
 ## AFRIMS
