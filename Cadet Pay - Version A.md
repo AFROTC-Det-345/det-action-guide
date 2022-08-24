@@ -1,31 +1,24 @@
-Cadet Pay 101 (How-to presentations)
+# Cadet Pay - Version A
+## Cadet Pay 101 (How-to presentations)
 
-Helpful links to training (make sure you're logged into WINGS first!):
+Helpful links to training (make sure you're logged into WINGS first!): https://wings.holmcenter.com/psc/hcp/CONTENT/ENTP/c/EPPCM_CONTENT_MGMT.EPPCM_BRWS.GBL?Action=U&PORTAL_NAME=CONTENT&EPPCM_CATGID=4697&EPPCM.StartCatgID=3870&EPPCM.CrefName=HOLM_MONTHLY_IST_HMPG
 
-https://wings.holmcenter.com/psc/hcp/CONTENT/ENTP/c/EPPCM\_CONTENT\_MGMT.EPPCM\_BRWS.GB L?Action=U&PORTAL\_NAME=CONTENT&EPPCM\_CATGID=4697&EPPCM.StartCatgID=3870 &EPPCM.CrefName=HOLM\_MONTHLY\_IST\_HMPG
-
-257 How-to
-Wednesday, November 24, 2021    12:15 PM
-
+## 257 How-to
 The only two forms you will need in order to get this process started and accomplished is the Student Management Roster (SMR) and the Detachment's 257 report.
 
 The Student Management Roster: Everything you need to know about ALL cadets (contracted/not contracted/pursuing etc..) that are apart of ROTC, is in this document.
 
 257 Report: lists ONLY contracted cadets.
 
-How to pull/find documents:
+## How to pull/find documents:
 
 SMR:
-
-? Log into Wings and Click on Cadet Reports
-
-? Make sure it is under the "Enrolled/Loss" Tab
-• Click on "SMR"
-
-• Org ID will always be 1218, do not input any other information.
-• Click Ok
-
-• A new window will pop up, that is the SMR.
+1. Log into Wings and Click on Cadet Reports
+2. Make sure it is under the "Enrolled/Loss" Tab
+3. Click on "SMR"
+4. Org ID will always be 1218, do not input any other information.
+5. Click Ok
+6. A new window will pop up, that is the SMR.
 
 257:
 
@@ -39,7 +32,7 @@ SMR:
 • The "date prepared" should always be from the previous month that you are in (Example.. it is the first week of march, I will be looking for Feb's 257 report)
 • Click "ok" and the 257 report will pop up.
 
-The Verification Process
+## The Verification Process
 
 • First things first, before auditing both the SMR and 257 it's important to know AS levels/stipend entitlements.
 *VERY IMPORTANT*
