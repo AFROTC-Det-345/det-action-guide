@@ -11,18 +11,18 @@ Transcripts and Academic Plans will be available via the vUPRG once uploaded in 
 
 To update GPA, transcripts, and academic plans; follow the steps below:
 
-1. Select the "Cadet Data" tile from the WINGS home scree
-2. Select the "Performance – Scholastic" drop down folder
-3. Select "Cadet GPA"
-4. Select "Save" button
-5. Select the cadet hyperlink
-6. Select the top "+" 
-7. Input "Term ID"
-8. Input "Term GPA" from transcript
-9. Input "Cumm GPA" from transcript
-10. Select the paperclip icon to the righto of "AFROTC Form 48 – Academic  Plan" to upload the current academic plan
-11. Select the paperclip icon to the right of "Transcript" to upload the current  transcript
-12. Select the "Save" button
+1. Select the "Cadet Data" tile from the WINGS home screen.
+2. Select the "Performance – Scholastic" drop down folder.
+3. Select "Cadet GPA".
+4. Select "Save" button.
+5. Select the cadet hyperlink.
+6. Select the top "+". 
+7. Input "Term ID".
+8. Input "Term GPA" from transcript.
+9. Input "Cumm GPA" from transcript.
+10. Select the paperclip icon to the righto of "AFROTC Form 48 – Academic  Plan" to upload the current academic plan.
+11. Select the paperclip icon to the right of "Transcript" to upload the current  transcript.
+12. Select the "Save" button.
 
 ## AFOQT Score Input
 Updating AFOQT scores is a two-part process.
