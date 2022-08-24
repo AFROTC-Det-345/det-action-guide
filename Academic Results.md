@@ -3,11 +3,7 @@
 ## GPA Input/Update
 Prior to updating cadet GPA, cadre should utilize their access to the university system(s) to pull the unofficial transcript for cadets that attend the host university. For all cadets that do not attend the host university or for those that cadre cannot access unofficial transcripts through university systems; cadre must request that cadets provide the required document.
 
-Transcripts should be uploaded in WINGS via the "Performance – Scholastic GPA" function.
-
-Academic plans should be uploaded in WINGS via the "Performance – Scholastic GPA" function.
-
-Transcripts and Academic Plans will be available via the vUPRG once uploaded in through the "Performance – Scholastic GPA" function.
+Transcripts and academic plans should be uploaded in WINGS via the "Performance – Scholastic GPA" function and will be available via the vUPRG once uploaded through the "Performance – Scholastic GPA" function.
 
 To update GPA, transcripts, and academic plans; follow the steps below:
 
