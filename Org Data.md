@@ -1,7 +1,6 @@
 # Org Data  
 
 ## Update School Terms
-Tuesday, December 7, 2021	11:55 AM
 
 **To update terms for host and cross town institutions, follow the instructions below.**
 
@@ -20,8 +19,6 @@ Tuesday, December 7, 2021	11:55 AM
 4. **Select the "Save" button**
 
 ## Update School Tuition
-Tuesday, December 7, 2021	11:56 AM
-
 **To update tuition rates for host and cross town institutions, follow the instructions below.**
 
 1. **Select the "Unit Management" tile**
