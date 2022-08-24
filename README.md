@@ -25,7 +25,7 @@ Officer Training Corps. All ideas/suggestions will be vetted by the CDT and CCVT
  
 ## Feedback
 The CDT exists to remove redundancies and increase improvements across the AFROTC enterprise. We welcome any feedback on how to streamline dissemination of information or improve product created and/or endorsed by our members. Please provide feedback directly to the CDT POC for your region (listed below):
-NER – SSgt Christopher Earls, Det 360, Kent State University 
-NWR – MSgt Deborah Johnson, Det 420, University Minnesota Duluth 
-SER – TSgt Anastasia Harris, Det 157, Embry-Riddle Aeronautical University 
-SWR – NO DESIGNEE REGISTERED 
+- NER – SSgt Christopher Earls, Det 360, Kent State University 
+- NWR – MSgt Deborah Johnson, Det 420, University Minnesota Duluth 
+- SER – TSgt Anastasia Harris, Det 157, Embry-Riddle Aeronautical University 
+- SWR – NO DESIGNEE REGISTERED 
