@@ -1,26 +1,18 @@
 # EAD Roster
-Wednesday, November 24, 2021	1:14 PM
-
 The Extended Active Duty Roster is essentially our LOSS roster for Cadets. It will state the EAD Date (when they leave) and their Projected assignment. The roster is updated by AFPC every month!
 
-## How to Pull the Roster
+## How to Pull the EAD Roster
+1. Log into WINGS and then click on "Holm Center Portal"
+2. Click on "Intranet"
+3. Click on "Registrar"
+4. Click on "Force Management (RRF)"
+5. Scroll ALL the way down and select the link to the EAD Roster, the screen should look like this:
+   - [ ] Insert screenshot here
 
-**Step1: **Log into WINGS and then click on "Holm Center Portal"
-
-**Step 2: **Click on "Intranet"
-
-**Step 3: **Click on "Registrar"
-
-**Step 4: **Click on "Force Management (RRF)"
-
-**Step 5: S**croll ALL the way down and select the link to the EAD Roster, the screen should look like this:
-
-EAD Roster QC
-Wednesday, November 24, 2021	1:15 PM
-
+## EAD Roster QC
 **Step 1: **Filter out the Detachment so you are only seeing members of your unit.
 
-\*\*\*NOTE\*\*\* Below are the main tabs you really need to QC
+***NOTE***: Below are the main tabs you really need to QC
 
 **Step 2: **Verify all the information is correct
 
@@ -32,20 +24,19 @@ Wednesday, November 24, 2021	1:15 PM
 
 	Nonrated members: SOD Physical (Space Operations)/MOD Physical (PRP related jobs)/TS Adjudicated Status
 
-**How to Correct the EAD**
-
+## How to Correct the EAD
 For nonrated members: please send TSgt Etienne, Amy/amy.etienne@us.af.mil all corrections that need to be made. She will respond with new EAD information way before the next EAD roster is even published.
 
 For rated members: please send TSgt Hooper, Amanda/amanda.hooper@us.af.mil all corrections that need to be made. She will respond with new EAD information way before the next EAD roster is even published.
 
-**How to send EAD roster to cadets.**
+## How to send EAD roster to cadets
 
 **Step 1: **Pull up the EAD roster and filter for members who have graduated from AFROTC (finished classes). MAKE SURE TO REMOVE PII.
 
 **Step 2: **Draft an email and send it to all applicable members.
 You have the option to send the EAD in individual emails as well
 
-**Members within 45 Days of EAD**
+## For Members within 45 Days of EAD
 
 When member are within 45 days of EAD, begin the process of getting the below information ready to send to AFPC. If you wait on AFPC, they may not initiate until days prior EAD. Below is the template AFPC typically sends; Fill this information out and send it to AFPC and they can complete the hard copy EAD orders.
 
