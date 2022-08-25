@@ -99,7 +99,8 @@ Send Fall Scholarship Memorandum (denoting which cadets are tentatively schedule
 
 >**Note:** Do not process textbook payments for SL ECP/NECP students until the AF1034 template is received from the Holm Center/SDFA office (timelines can be located in AFROTCI 36-2011).
 
-Process Fall semester/term tuition and textbook payments NET 45th day of host institution start date. **IMPORTANT:** Both tuition and textbook payments DO NOT TAKE PLACE ANY EARLIER THAN the 45th day of class in the host institution start date
+Process Fall semester/term tuition and textbook payments NET 45th day of host institution start date. 
+**IMPORTANT:** Both tuition and textbook payments DO NOT TAKE PLACE ANY EARLIER THAN the 45th day of class in the host institution start date
 
 >**Note:** Tuition & textbook payment is not paid for cadets who discontinue prior to payment
 
