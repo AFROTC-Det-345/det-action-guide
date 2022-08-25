@@ -3,10 +3,25 @@
 ## VCO
 
 ## GPC
-Description–Thisprogramis the sameas the GPC programat a base,witha few exceptions.(Approvalofficialaccounts,etc.).
+### Description 
+This program is the same as the GPC program at a base,with a few exceptions. (Approval official accounts, etc.)
 
-Youwillneedto contact your RegionBudgetAnalyst to initiatetraining,receiveyourcard, and getaccesstoProcurement  Integrated  Enterprise  Environment(PIEE,thewebbased  programused  toreconcileyourpurchases)AFROTCDifferences –In AFROTC your CCwillapprove purchases,but your PIEE approvingofficialis yourAFROTCrep.  
-Youwill also have severalaccountingcodes that you willhave totrackfordifferentDetfunctionswhichinclude,but are not limitedto,generalsupport,furniture,Center ofInfluence,LeadershipLabIncentive Program,Unit AdmissionsOffice,postage, parking,etc.Responsibility-WhiletherewillbedifferentPOCsforsomeofthe aboveprograms,you are ultimatelyresponsible forthe use of the card.  Itis importantthatyou establisha systemtomanagethe differentaccountsandthat you areawareoftheregulationsand rules establishedon spendingforeach program.
+You will need to contact your Region Budget Analyst to initiate training, receive your card, and get access to Procurement Integrated Enterprise Environment (PIEE), the web-based program used to reconcile your purchases.
+
+### AFROTC Differences
+In AFROTC your CC will approve purchases,but your PIEE approving official is your AFROTC rep.
+
+You will also have several accounting codes that you will have to track for different Det functions which include, but are not limited to:
+- general support 
+- furniture 
+- Center of Influence 
+- Leadership Lab Incentive Program
+- Unit Admissions Office 
+- postage 
+- parking  
+
+### Responsibility
+While there will be different POCs for some of the above programs, you are ultimately responsible for the use of the card. It is important that you establish a system to manage the different accounts and that you are aware of the regulations and rules established on spending for each program.
 
 >Refer to the [SAPM Checklist](https://airuniversity.sharepoint.com/:x:/r/teams/ROTC/Shared%20Documents/CCVE/SAP%20Checklist/Detachment%20SAP%20Checklist%20%20AY22-23.xlsx?d=wa18fbecb50c247cd80c25dd090720e1d&csf=1&web=1&e=3DG3aS) to ensure you are running the program based on the checklist items.
 
