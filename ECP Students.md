@@ -8,7 +8,7 @@ Tuesday, November 30, 2021	10:22 AM
 2.) **Select "ECP Students" from the menu**
 
 3.) **Select the "Add a New Value" tab**
-![]()
+
 
 4.) **Select the "Add" button**
 
@@ -17,12 +17,12 @@ Tuesday, November 30, 2021	10:22 AM
 1. **Verify/Match information**
 	2. **Check "ECP" box**
 		3. **Select "Submit" button**
-![]()
+
 
 **Input/Verify personal data**
 **Select "Save" button**
 1. **Select the "ECP" tab at the top**
-![]()
+
 
 **Select "ECP Type" from the drop down menu**
 **Select "ECP Status" from drop down menu**

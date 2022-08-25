@@ -32,7 +32,7 @@ Tuesday, December 7, 2021	10:44 AM
 1. **Review the "Confirmation"**
    
 2. **Select the "Yes, Continue" button**
-![]()
+
 
 **\*Cadets (subjects) information is accessed via two common methods**
 **7a. Input cadet (subject) SSN in the box below "Subject Search" and select the  "Search Subjects" Button**
@@ -44,12 +44,12 @@ Tuesday, December 7, 2021	10:44 AM
 
 **\*Once a subject is selected, you will see this screen; providing you with a range  of information and options**
 **\*\*Scroll down until you see the "SMO Relationship" section**
-![]()
+
 
 1. **Select the "Remove Relationship" button **
 	**\*You may see two owning relationships depending on how the subject was  transferred from JPAS (previous system) to DISS; end both relationships**
 	**\*\*Do not be concerned with the fact that it seems greyed out, you can still  click the button**
-![]()
+
 
 1. **Select the appropriate check boxes**
    
@@ -76,13 +76,13 @@ Tuesday, December 7, 2021	10:44 AM
 1. **Review the "Standard Mandatory DoD Notice and Consent" statement**
    
 2. **Select the "I agree" button**
-![]()
+
 1. **Select the "Login" button**
 
 2. **Review the "Confirmation"**
    
 3. **Select the "Yes, Continue" button**
-![]()
+
 
 **\*Cadets (subjects) information is accessed via two common methods**
 **7a. Input cadet (subject) SSN in the box below "Subject Search" and select the  "Search Subjects" Button**
@@ -97,7 +97,7 @@ Tuesday, December 7, 2021	10:44 AM
 1. **Select the "Subject Actions" dropdown**
    
 2. **Select "CSR/Provide Supplemental Information" **
-![]()
+
 
 1. **Input reason for removal of clearance**
    
@@ -118,10 +118,10 @@ Tuesday, December 7, 2021	10:44 AM
 1. **Select the "Create" button**
 	**\*From this point, you will need to monitor the progress of the CSR by  periodically logging into DISS and reviewing the subject details for the  cadet**
 	**\*\*Once the CSR is processed, you can end the SMO relationship**
-![]()
+
 1. **Navigate to desired subject and select the "Subject Details" link**
 
 1. **Select the "CSRs/RFAs" tab**
-![]()
+
 1. **The current status will be displayed as indicated**
 	**\*Once the status reads as "Processed" end the SMO relationship**

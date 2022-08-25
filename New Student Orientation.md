@@ -202,7 +202,7 @@ Input your User ID and Password
 
 **Step 3: **Select the Recruiting / Admissions tile
 
-![]()
+
 **Step 4: **Under the "Contact Data," search the applicant's last name and select search
 \*\*\*NOTE\*\*\* The tabs you will be selecting look like this:
 
@@ -240,12 +240,12 @@ Input your User ID and Password
 
 **Step 3: **Select the "Cadet Data" tile
 
-![]()
+
 **Step 4: **On the left hand side of the page, select "Enrollment/Classification" and verify/complete necessary actions to be able to classify the cadet as "active"
 
 Find the applicant you are working with.
 - You will see a table with a series of boxes like this:
-	![]()
+	
 
 If you see a blank box, no action has been taken; if there is a green check mark, action is complete; if there is a red X, then a follow-up action needs to be made ( you may see this on: CIs, CI Certification, Screening Questions)
 - If the box is blank or does not have a green check, select the box to see what action is required.
@@ -261,7 +261,7 @@ U.S. citizen tab of this OneNote.
 
 Once all of the boxes are green, you will be able to move on and the "Enrollment Eligibility" box will have a green check in it on the home page.
 
-![]()
+
 **Youth/Military Experience:**
 
 If the applicant has not prior military experience, the option will be toggled no. If yes, then you will need the applicant's DD214. If the applicant is male and 18 years of age or older, input their selective service number if the box is blank.
@@ -270,7 +270,7 @@ If the applicant has not prior military experience, the option will be toggled n
 		- Awards and experience are important when it comes to contracting because it can influence their pay grade
 	- After all of the information has been verified, select the boxes in the upper right corner of each section, then click "apply" and then "ok" (example below).
 
-![]()
+
 **Screening Questions:**
 
 Make sure these are all checked with a green check. If they are incomplete, have the applicant complete their questions. If there is a red X, additional actions must be taken. Typically these actions are related to DoDMERB (click the red X associated with this question and indicate the action that will be taken. i.e. requesting DoDMERB be transferred to the det) or admission of drug use (officer cadre will have to meet with the cadet to sign this one off. They will click on the red X and then indicate action taken). When complete, all the boxes will be green (see below example).
@@ -283,7 +283,7 @@ Upload requested documents. All other documents (if not uploaded when creating t
 
 If the applicant has no civil involvements reported, the box will automatically have a green check. If there is a red X indicated, the CI must be approved. All supporting documents from the incident must be attached to the involvement. (See below)
 
-![]()
+
 The applicant will need to provide:
 Date of incident
 - Date it was reported to cadre
@@ -301,7 +301,7 @@ Date of incident
 
 	If the applicant has not signed off on the C.I. already, click in the blank box and the below example will appear:
 
-![]()
+
 Select "Add Certification"
 After reading the prompt stating the cadet's presence is required, select "ok"
 - Have the applicant read the statement, once finished toggle the empty box next to the statement

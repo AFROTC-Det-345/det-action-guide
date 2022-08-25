@@ -21,7 +21,7 @@ Create a tracker to maintain accountability of the cadets DoDMETs status.
 - When you log in you can see all the applicants you have submitted and their status
 
 **Step 2: **Click add new applicant
-![]()
+
 - Start filling out the cadets information
 	- SSN-- no dashes
 	- First Name/Last Name
@@ -103,7 +103,7 @@ Wednesday, November 24, 2021	12:58 PM
 
 **Step 3: **Find the cadet you are looking for. You can utilize the search function to make it easier
 
-![]()
+
 **Current Medical Status Types:**
 Qualified: meets medical standards
 - Awaiting Remedial Response: DoDMERB is requesting documentation/medical records from the cadet
@@ -119,7 +119,7 @@ Qualified: meets medical standards
 **Step 6: **Send the remedial codes and verbiage to the cadet and suspense them to return all requests in a timely matter (normally 2 weeks). Example email is below:
 
 **Step 7: **Once the cadet emails you back with the forms/documents, forward the documents to DoDMERB. Example email is below:
-![]()
+
 
 - DoDMERB will always confirm the receipt
 
@@ -225,7 +225,7 @@ Thursday, December 9, 2021	3:15 PM
 **1. Select the "Cadet Data" tile**
 
 
-![]()
+
 
 **2.**
 **Select "Rated Screening Exam"**
@@ -233,7 +233,7 @@ Thursday, December 9, 2021	3:15 PM
 1. **Input "Search Criteria"**
    
 2. **Select the "Search" button**
-![]()
+
 1. **Select the cadet hyperlink**
 
 1. **Print this screen and send it with the other applicable documents**
@@ -253,7 +253,7 @@ DoDMERB medical status reflects "Awaiting Waiver Review"
 
 **Step 3: **Next, you will email HQ AETC/SG(AFRS.AMWDAFROTC.Workflow@us.af.mil) requesting waiver using the requirements stated in the Cadet Medical Processing Guide. See below:
 
-![]()
+
 
 **\*\*\*Additional Information\*\*\***
 
@@ -289,7 +289,7 @@ If a cadet gets injured/seriously injured, they will be placed on MRS
 - If the injury IS serious, you will send an email to HQ AETC/SG letting them know the cadet who was injured and the injury
 - They will request certain documents, and make the determination on how long the cadet will be on MRS for
 - Log into WINGS- Cadet Data- Performance Physical- Medical History
-	![]()
+	
 
 - Input the dates that HQs gave you
 - MRS Comment will be what the injury is
@@ -332,7 +332,7 @@ The cadet will email you requesting information concerning CRS. Below are the st
 
 **Example 2**
 
-![]()
+
 **Example 3**
 
 ## MOD Physical

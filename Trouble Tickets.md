@@ -6,7 +6,7 @@ Thursday, December 9, 2021	3:16 PM
 1. **Select the "Customer Service" tile**
 
 1. **Select the "Add New" tab**
-![]()
+
 
 1. **Select ticket "Category"**
 2. **Select/input specific data in the section below "Incident ID"**
@@ -30,5 +30,5 @@ Tuesday, December 14, 2021	1:54 PM
 2. Input desired "Search Criteria"
    
 3. Select the "Search" button
-![]()
+
 1. Select the appropriate trouble ticket hyperlink from the available "Search Results"

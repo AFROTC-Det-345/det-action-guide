@@ -30,7 +30,7 @@ The Student Management Roster: Everything you need to know about **ALL** cadets 
   
 - Click on the tab "Tuition/Pay"
 
-![]()
+
 
 - Click on "Monthly Pay Status"
   
@@ -210,7 +210,7 @@ Sections to be completed:
 
 **Section 5. **AUTHORIZATION
 - Have cadet sign and date.
-![]()
+
 
 **DD FORM 2058 - State of Legal Residence Certificate**
 
@@ -220,7 +220,7 @@ Name SSN
 Legal Residence/Domicile (legal address)
 Signature Mailing Address Date
 
-![]()
+
 
 **W-4 - Employee's Withholding Allowance (attached 2021v below)**
 
@@ -242,7 +242,7 @@ READ THROUGH AND COMPLETE THE SECTION AS IT APPLIES TO THE CADET
 **Step 5 **Signature Date
 Det name and address and date
 
-![]()
+
 
 **SGLV - Life insurance (attached 2021v below)**
 
@@ -263,11 +263,11 @@ Check the last box for declining coverage and write out the requested statement 
 Date
 Address
 
-![]()
 
-![]()
 
-![]()
+
+
+
 
 ## Extended Subsistence Entitlements
 

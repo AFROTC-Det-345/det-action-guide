@@ -1,21 +1,11 @@
 # WINGS Secrets
 
-
 ## How to pull Excel SMR
-
 **Excel:**
-○
-•
-
-•
-•
-•
-
-Log into WINGS
-Once WINGS is open, click https://wingsuid.holmcenter.com/psp/wings/WINGS/WINGS\_LOCAL/q/?
-ICAction=ICQryNameURL%3DPUBLIC.SMR
-enter your 4 digit school # and hit enter
-Select “Download results in Excel Spread Sheet” link Save to Shared Drive
+1. Log into WINGS
+2. Once WINGS is open, click https://wingsuid.holmcenter.com/psp/wings/WINGS/WINGS\_LOCAL/q/?ICAction=ICQryNameURL%3DPUBLIC.SMR
+3. Enter your 4 digit school # and hit enter
+4. Select “Download results in Excel Spread Sheet” link Save to Shared Drive
 
 ## Wings Major Table
 
@@ -24,24 +14,22 @@ Select “Download results in Excel Spread Sheet” link Save to Shared Drive
 **While regulation does not currently require this checklist to be completed, it is a great way to verify the accuracy and currency of cadet records. Cadre should develop an internal schedule for completing the checklist (e.g. prior to commissioning, during summer months, over winter break, etc.).**
 
 ## Unresolved Cadet Act
+1. Log into WINGS and select the "Personnel Actions" Tile
+2. Select "Cadet Actions Dashboard"
+*\*Click "OK" if a pop up window appears**
 
-1. **Log into WINGS and select the "Personnel Actions" Tile**
-
-1. **Select "Cadet Actions Dashboard"**
-	**\*Click "OK" if a pop up window appears**
-![]()
 
 1. **Select "Content"**
 
 1. **Check desired boxes**
 2. **Select "Save" button**
-![]()
+
 
 1. **Select "Main Menu" drop down**
 2. **Select "Personnel Actions"**
 3. **Select "Cadet Actions Dashboard"**
-![]()
-![]()
+
+
 
 1. **View results; use this listing to resolve any open counseling's, D.I.'s, CPARS,  or C.I.'s**
 
@@ -60,7 +48,7 @@ The guide below, provides instructions on how to reset cadet password and unlock
 1. **Select the "Personnel Actions" tile**
 
 1. **Select the "Processes" folder**
-![]()
+
 
 1. **Select "Transfer Cadet"**
 

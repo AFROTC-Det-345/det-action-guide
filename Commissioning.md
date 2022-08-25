@@ -42,7 +42,7 @@ Refer to 'Wings Secret' on how to pull an excel SMR.
 - The checklist will walk you step by step on what needs to be completed for each cadet.
 
 ### Timeline Overview:
-![]()
+
 
 **Commissioning Paperwork To Build Folder**
 
@@ -143,8 +143,8 @@ Input the information in each cell for the cadet (an example is below)
 - Select "Step-by-Step Mail Merge Wizard"
   
 - On the right side of the screen, you will see the Mail Merge application options:
-![]()
-![]()
+
+
 - Click on "Browse…" and find where the Excel above (Commissioning Excel) is saved.
   
 - Click on the Excel and then select "Open"
@@ -213,7 +213,7 @@ If the cadet does not have a profile created, select the prompt to review the "N
 - Select "Return to accessions page"
 
 **Step 4: **Enter the below information:
-![]()
+
 
 **Step 5: **Indicate "Yes" or "No" for the documents, and then upload all of the mandatory documents.
 - Mandatory documents are:

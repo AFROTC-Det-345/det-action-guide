@@ -29,12 +29,12 @@ Tuesday, December 7, 2021	10:06 AM
 1. **Select "Cadet Data" tile**
 
 1. **Select the "Performance - Physical" drop down folder**
-![]()
+
 1. **Select "AFPFT Results"**
 
 1. **Input appropriate cadet information/search criteria**
 2. **Select "Search" button**
-![]()
+
 1. **Select the desired cadet name hyperlink**
 
 1. **Select the "+" symbol to add the new/current assessment**
@@ -52,12 +52,12 @@ Tuesday, December 7, 2021	10:32 AM
 **Select the "Cadet Data" tile**
 
 **Select the "Performance - Physical" drop down folder**
-![]()
+
 
 **Select "Weight Check Results"**
 
 **Input appropriate cadet information/search criteria**
-![]()
+
 
 Select appropriate cadet hyperlink
 
@@ -75,7 +75,7 @@ Select appropriate cadet hyperlink
 
 **Input "Waist" and "Neck" measurements **
 1. **Select "OK" button**
-![]()
+
 
 **Select the "Save" button and take any necessary actions IAW  AFROTCI36-2011**
 

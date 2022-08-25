@@ -25,11 +25,11 @@ Input your User ID and Password.
 - Select the "WINGS" tile.
 
 - Click Cadet Data
-![]()
+
 
 - Search members last name
 - When on the cadet data home page, select the "scholarship" tab.
-	![]()
+	
 
 - Below is a picture of the screen that will appear.
 
@@ -70,7 +70,7 @@ This tab explains the status of a cadet's scholarship.
 
 Temporary Inactivation:
 
-![]()
+
 Suspended:
 
 Terminated:
@@ -88,7 +88,7 @@ Withdrawn: If an HSSP scholarship recipient does not attend the institution wher
 
 **Related Documents:**
 - The section below is used to file the AFROTC Form 88 - Extended Entitlements and the Non Tech Foreign Language Statement (Attachment 3). These forms are touched on more in the "Extended Entitlements" tab.
-![]()
+
 
 ## Extended Entitlements
 Wednesday, November 24, 2021	12:40 PM
@@ -101,7 +101,7 @@ The type of degree a Cadet is pursuing determines whether or not the cadet is en
 - One week prior to an AS400 SPRING term **end **date, you must route an extended entitlements memorandum up to AFROTC/RRUE afrotc.rrue@us.af.mil.
 
 Below is the template for extended entitlements requests, and Attachment 4 for SAF-Approved 5-Year Majors:
-![]()
+
 
 ## Scholarships How-to Slides
 Wednesday, November 24, 2021	12:40 PM

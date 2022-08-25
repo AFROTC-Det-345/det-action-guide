@@ -5,12 +5,12 @@
 **To update terms for host and cross town institutions, follow the instructions below.**
 
 1. **Select the "Unit Management" tile**
-![]()
+
 1. **Select "College" from the "Organizational Type" drop down**
 2. ** Select the "Search" button**
 
 1. **Select the appropriate hyperlink**
-![]()
+
 1. **Select the "School Terms" tab**
 
 1. **Select the "+" icon to add and new term**
@@ -22,12 +22,12 @@
 **To update tuition rates for host and cross town institutions, follow the instructions below.**
 
 1. **Select the "Unit Management" tile**
-![]()
+
 1. **Select "College" from the "Organizational Type" drop down**
 2. ** Select the "Search" button**
 
 1. **Select the appropriate hyperlink**
-![]()
+
 1. **Select the "School Data" tab**
 
 1. **Input required information in "School Details" section**
@@ -46,14 +46,14 @@ Tuesday, December 7, 2021	11:56 AM
 **To update available majors for host and cross town institutions, follow the  instructions below.**
 
 1. **Select the "Unit Management" tile**
-![]()
+
 1. **Select "College" from the "Organizational Type" drop down**
 2. ** Select the "Search" button**
 
 1. **Select the appropriate hyperlink**
-![]()
+
 1. **Select the "Majors" tab**
-![]()
+
 1. **Select the "Save" button**
 
 ## Update School Details

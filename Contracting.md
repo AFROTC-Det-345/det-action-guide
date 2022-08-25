@@ -45,7 +45,7 @@ below for how to pull the LOA:
 - Click Registrar on the lower left section of the screen
 
 - Click on Scholarships Branch
-![]()
+
 
 - Scroll down to the bottom of the page, you will see "Letters of Admission (LOA) Rosters"
 
@@ -65,7 +65,7 @@ below for how to pull the LOA:
 **Step 2: **Conduct a Civil Involvements certification in Wings.
 - Ensure to ask the cadet if there are any new CIs they need to report.
 - Go to https://wings.holmcenter.com/ and click the "Sign In" tile.
-![]()
+
 
 Input your User ID and Password.
 
@@ -89,7 +89,7 @@ Requirement prompt.
 - Ensure the cadet reads through the form and hopefully has nothing to report.
 - Ensure the date of recertification is the same date as the date of enlistment.
 - See below example of the recertification:
-![]()
+
 
 **Step 3: **Complete the Cadet Pay Record forms. (visit the Cadet Pay tab for form instructions).
 
@@ -102,12 +102,12 @@ Requirement prompt.
 - Ensure the bottom of all pages of the DD4 are initialed.
 - Ensure a black ink pen is used.
 - See below example:
-![]()
+
 
 - AF 1056:
 - Ensure initials are received for any corrections on the form (page 5).
 - See below example:
-![]()
+
 
 **Step 6: **Save the documents on the ShareDrive or preferred (secure) forum.
 - S:\\SPEC\_APP\\afrotc\\1 - Cadet Actions\\11 - Enlistments\\Cadet Documents.
@@ -115,7 +115,7 @@ Requirement prompt.
 
 **Step 7: **Add contract documents into Wings.
 - Go to https://wings.holmcenter.com/ and click the "Sign In" tile.
-![]()
+
 
 Input your User ID and Password.
 
@@ -162,7 +162,7 @@ Wednesday, November 24, 2021	11:48 AM
 	- Click on "Start Mail Merge"
 	- Select "Step-by-Step Mail Merge Wizard"
 	- On the right side of the screen, you will see the Mail Merge application options:
-![]()
+
 
 Click on "Select a different list…" and find where the Excel (above) is saved.
 - Click on the Excel and then select "Open"
@@ -170,7 +170,7 @@ Click on "Select a different list…" and find where the Excel (above) is saved.
 	Select the page your data is located on:
 
 	Check the name of the individual(s) you are completing the Mail Merge for and then click "OK"
-![]()
+
 
 At the bottom of the Mail Merge application select, "Next: Write you letter"
 
@@ -181,7 +181,7 @@ The data should populate onto the Word document. QC the data to ensure it is cor
 ## Rank Cheat Sheet
 Wednesday, November 24, 2021	11:51 AM
 
-![]()![]()
+
 
 ## Enlistment and Contracting Slides
 Wednesday, November 24, 2021	11:54 AM
