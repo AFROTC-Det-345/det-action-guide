@@ -57,7 +57,7 @@ This tab explains the status of a cadet's scholarship.
 6. Not Award: was nominated but not awarded.
 7. Reactivate: if cadet has scholarship suspended, you reactivate it.
 
-Temporary Inactivation:
+**Temporary Inactivation**:
 
 Suspended: If suspension of scholarship occurs prior to tuition payment, remove estimate from WINGS. If Scholarship is suspended after payment, remove estimate for following term.
 
