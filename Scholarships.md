@@ -49,21 +49,21 @@ Below is the template for extended entitlements requests, and Attachment 4 for S
 
 This tab explains the status of a cadet's scholarship.
 
-1. Activated: Scholarship has started
-2. Awarded: They earned the scholarship
-3. Completed: They have commissioned/completed all entitlements.
-4. Declined: chose to decline the scholarship
-5. Nominated: nominated for the scholarship.
-6. Not Award: was nominated but not awarded.
-7. Reactivate: if cadet has scholarship suspended, you reactivate it.
+1. **Activated:** Scholarship has started
+2. **Awarded:** They earned the scholarship
+3. **Completed:** They have commissioned/completed all entitlements.
+4. **Declined:** chose to decline the scholarship
+5. **Nominated:** nominated for the scholarship.
+6. **Not Award:** was nominated but not awarded.
+7. **Reactivate:** if cadet has scholarship suspended, you reactivate it.
 
 **Temporary Inactivation**:
 
-Suspended: If suspension of scholarship occurs prior to tuition payment, remove estimate from WINGS. If Scholarship is suspended after payment, remove estimate for following term.
+**Suspended:** If suspension of scholarship occurs prior to tuition payment, remove estimate from WINGS. If Scholarship is suspended after payment, remove estimate for following term.
 
-Terminated: If termination of scholarship occurs prior to tuition payment, remove estimate from WINGS  If a scholarship is terminated after payment, remove estimate for following term.
+**Terminated:** If termination of scholarship occurs prior to tuition payment, remove estimate from WINGS  If a scholarship is terminated after payment, remove estimate for following term.
 
-Withdrawn: If an HSSP scholarship recipient does not attend the institution where the scholarship will be activated the immediate fall term following the scholarship award cycle, and/or does not activate the scholarship during the required term, withdraw the scholarship. If an ICSP scholarship recipient does not activate the scholarship the term in which it was awarded, withdraw the scholarship. Once withdrawn by the Detachment or AFROTC/RRU, a scholarship cannot be reinstated. If eligible, cadets who have had a scholarship withdrawn may compete for a later HSSP or ICSP scholarship cycle.
+**Withdrawn:** If an HSSP scholarship recipient does not attend the institution where the scholarship will be activated the immediate fall term following the scholarship award cycle, and/or does not activate the scholarship during the required term, withdraw the scholarship. If an ICSP scholarship recipient does not activate the scholarship the term in which it was awarded, withdraw the scholarship. Once withdrawn by the Detachment or AFROTC/RRU, a scholarship cannot be reinstated. If eligible, cadets who have had a scholarship withdrawn may compete for a later HSSP or ICSP scholarship cycle.
 
 **How to make updates to the Scholarship History tab:**
 1. Click the plus sign
