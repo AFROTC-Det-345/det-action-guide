@@ -2,7 +2,7 @@
 
 ## Image Example
 
- ![90COS Logo](90th%20cos%20color%20mobile%20wallpaper.png)
+ ![AFROTC Emblem](images/AFROTC_Emblem.jpg)
 
 ## Purpose & Scope
 The Air Force Reserve Officer Training Corps (AFROTC) Detachment Action Guide is an interactive and collaborative tool developed and managed by the Cadre Development Team (CDT), under the guise of AFROTC/CCVT, Cadre Training. This guide is designed to provide cadre with resources, information, and step-by-step instructions. Information and processes found in this guide are derived from Air Force, Air Education & Training Command, Air University, Holm Center, and AFROTC regulations and
