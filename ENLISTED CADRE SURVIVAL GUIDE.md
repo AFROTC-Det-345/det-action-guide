@@ -1707,156 +1707,86 @@ you arrived at your Det.
 
  This is not necessarily an NCO function but does dictate it has to be an MSgt, or above, if not an officer
 
-
-## GLOSSARY OF TERMS
-
+## ACRONYMS
 AAT – Army Airborne Training
 ABM – Air Battle Manager
-
 AETC – Air Education Training Center
-
 AECP – Airman Education & Commissioning Program
-
 AFAFF – Air Force Academy Freefall
 AFI – Air Force Instruction
-
 AFIT – Air Force Institute of Technology
-
 AFOCD – Air Force Officer Classification Directory
-
 AFOQT – Air Force Officer Qualifying Test
-
 AFRIMS – Air Force Records Information Management System
 AFROTC – Air Force Reserve Officer Training Corps
-
 AFSC – Air Force Specialty Code
-
 AR – ATC – Adaptability Rating for Air Traffic Control
-
 ARMS – Automated ROTC mail system
 ARSMOD – Adaptability Rating for Space and Missile Operations Crew Duty
-
 ASVAB – Armed Services Vocational Aptitude Battery
-
 ATC – Air Traffic Control
-
 AY – Academic Year
-
 BF – Body Fat
 BFM – Body Fat Measurement
-
 BMI – Body Mass Index
-
 CGPA – Cumulative Grade Point Average
-
 COC – Commandant of Cadets
-
 CSO – Combat Systems Operator (navigator)
-
 CY – Calendar Year
 DFAS – Defense Finance and Accounting Service
-
 DISS – Defense Information System for Security
-
 DOC – Date of Commissioning
-
 DoD – Department of Defense
-
 DODMERB – Department of Defense Medical Examination Review Board
 DODMETS – Department of Defense Medical Exam Testing System
-
 DOG – Date of Graduation
-
 ELD – Estimated Last Day
-
 EPMLID – Employee Identification
 E-QIP – Electronic Questionnaire for Investigations Processing
-
 ETP – Exception to Policy
-
 FARM – Functional Area Records Manager
-
 FC – Flying Class
 FCP – Family Care Plan
-
 FT – Field Training
-
 GMC – General Military Course
-
 GOV – Government Owner Vehicle
-
-
 GPA – Grade Point Average
-
 GPC – Government Purchase Card
 GSA – Government Services Administration
-
 HSSP – High School Scholarship Program
-
 IAW – In Accordance With
-
 ICSP – In College Scholarship Program
 IMT – Information Management Tools
-
-I Q T – I n i t i a l Q u a l i f i c a t i o n T r a i n i n g
-
+IQT – Initial Qualification Training
 ITAM – IT Asset Management
-
 JPAS – Joint Personnel Adjudication System
 JQS – Job Qualification Standard
-
 LOA – Letter of Admittance
-
 MEPS – Medical Examination Processing Station
-
-M E S – M e d i c a l E x e m p t i o n S t a t u s
-
+MES – Medical Exemption Status
 MFS – Medical Flight Screening
-
 MilPDS – Military Personnel Data System
-
-M O D – M i s s i l e O p e r a t i o n s D u t y
-
+MOD – Missile Operations Duty
 MPG – Medical Processing Guide
-M Q T – M i s s i o n Q u a l i f i c a t i o n T r a i n i n g
-
+MQT – Mission Qualification Training
 MRS – Medical Recheck Status MTF – Medical Treatment Facility
-
 MWR – Morale, Welfare, and Recreation
-
-N E T – N o E a r l i e r T h a n
-
+NET – No Earlier Than
 NLT – Not Later Than
-
 OI – Operating Instruction
-
 ORS – Obligated Reserve Section
-
 PCSM – Pilot Candidate Selection Method
-
 PDT – Professional Development Training
-
 PFA – Physical Fitness Assessment
-
-P N Q – P o t e n t i a l l y N a v i g a t o r Q u a l i f i e d
+PN  – Potentially Navigator Qualified
 POC – Professional Officer Course
-
 PPC – Personnel Processing Codes PPQ - Potential Pilot Qualified
-
 PRAP - Personnel Reliability Assurance Program
-
 PRQ – Potentially RPA Qualified
 PSP – POC Selection Process
-
 PT – Physical Training
-
 RAT – Reading Aloud Test
-
 RPA – Remotely Piloted Aircraft
-
 SAPM – Self-Assessment Program Manager
-
 SF – Standard Form
 TBAS – Test of Basic Aviation Skills
-
-
