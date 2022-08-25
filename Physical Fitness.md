@@ -1,7 +1,6 @@
 # Physical Fitness  
 
 ## Fitness Requirements
-Wednesday, December 22, 2021	11:56 AM
 
 **Reference: AFROTCI 36-2011V3**
 
@@ -23,61 +22,83 @@ Det/CCs may issue a CE or Det Drop any cadet that does not meet Body Fat standar
 
 Do not activate a scholarship, submit for the PSP selection board, contract, send to Field Training, or commission if a cadet does not meet BMI or Body Fat standards.
 
+**Fall Fitness Qualifications/Height & Weight Check**
+
+Ensure all cadet fill out Fitness Screening Questionnaire prior to the First PT session
+Ensure BFMs are accomplished (as needed)
+Take appropriate scholarship actions – conditionals/temp inactivation/suspensions (notify University stating Cadet will pay for this term’s tuition if this is their 2nd or 3rd Conditional Event)
+
+**Fall PT**
+
+**Schedule PFA:** See Physical Training Guidance
+
+Update PFA and height/weight in WINGS
+
+>**Note:** Ensure cadets complete Fitness Screening Questionnaire prior to PFA.
+
+**Spring Fitness Qualifications/Height & Weight Check**
+
+Ensure BFMs are accomplished (as needed)
+Take appropriate scholarship actions – conditionals/temp inactivation/suspensions (notify University stating Cadet will pay for this term’s tuition if this is their 2nd or 3rd Conditional)
+Update WINGS
+
+**Spring PT**
+
+**Schedule PFA:** See Physical Training Guidance
+
+Update PFA and height/weight in WINGS
+
+>**Note:** Ensure cadets complete Fitness Screening Questionnaire prior to PFA.
+
+## Weight Management Program
+
+AFROTC will align with AFI 36 - 2905, Fitness Program, concerning BMI and body fat standards for AFROTC cadets. The new BMI maximum, regardless of a cadet’s gender, is 25 and the body fat limit for males is 18% and for females it is 26%.
+
+**Forms** – Document weigh in and administrative actions via WINGs Counseling.
+
+**BMI/Body Fat** – BMI/body fat measurements are not required for the term Fitness Assessment (FA) for cadets who pass the waist measurement; however, cadets who fail the waist measurement must have their BMI checked. If a cadet’s BMI exceeds 25 (over MAW for their height), then his/her body fat must be measured IAW DoDI 1308.3, DoD Physical Fitness and Body Fat Programs Procedures and AFI 36 - 2905. If the cadet’s body fat exceeds the limit, then he/she does not meet standards.
+
+Cadets must meet the BMI/body fat standard to contract or commission. BMI/body fat must be measured within the 15 days prior to contracting, within 30 days prior to commissioning, and within 30 days prior to the end of the spring term for cadets attending Field Training IAW AFROTCI 36 - 2011
+
 ## FA WINGS Update
-Tuesday, December 7, 2021	10:06 AM
 
 1. **Select "Cadet Data" tile**
-
-1. **Select the "Performance - Physical" drop down folder**
-
-1. **Select "AFPFT Results"**
-
-1. **Input appropriate cadet information/search criteria**
-2. **Select "Search" button**
-
-1. **Select the desired cadet name hyperlink**
-
-1. **Select the "+" symbol to add the new/current assessment**
-2. **Select the "PFT Type/Reason" from the drop down menu**
-3. **Input "Test Date"**
-4. **Input "Number of Push Ups"**
-5. **Input "Number of Sit Ups"**
-6. **Input Run Time "Min:Sec"**
-7. **Select "Save" button**
+2. **Select the "Performance - Physical" drop down folder**
+3. **Select "AFPFT Results"**
+4. **Input appropriate cadet information/search criteria**
+5. **Select "Search" button**
+6. **Select the desired cadet name hyperlink**
+7. **Select the "+" symbol to add the new/current assessment**
+8. **Select the "PFT Type/Reason" from the drop down menu**
+9. **Input "Test Date"**
+10. **Input "Number of Push Ups"**
+11. **Input "Number of Sit Ups"**
+12. **Input Run Time "Min:Sec"**
+13. **Select "Save" button**
 	**\*Ensure AF4446/AF4446a are loaded into cadet vUPRG**
 
 ## BMI & BF Wings Update
-Tuesday, December 7, 2021	10:32 AM
 
-**Select the "Cadet Data" tile**
-
-**Select the "Performance - Physical" drop down folder**
-
-
-**Select "Weight Check Results"**
-
-**Input appropriate cadet information/search criteria**
-
-
-Select appropriate cadet hyperlink
-
-**Select the "+" symbol**
+1. **Select the "Cadet Data" tile**
+2. **Select the "Performance - Physical" drop down folder**
+3. **Select "Weight Check Results"**
+4. **Input appropriate cadet information/search criteria**
+5.  Select appropriate cadet hyperlink
+6.  **Select the "+" symbol**
 
 **Input "Exam Date"**
 1. **Input "Height (inch)"**
-	2. **Input Weight (lb)"**
-	3. **Attached BMI/BF record sheet **
-	4. **Input "Comments"**
+2. **Input Weight (lb)"**
+3. **Attached BMI/BF record sheet **
+4. **Input "Comments"**
 
-**\*If a red flag is present after inputting height and weight, body fat (BF)  measurements are required. See DoDI 1308.3 for BF measurement instructions.**
+>**Note:** If a red flag is present after inputting height and weight, body fat (BF)  measurements are required. See DoDI 1308.3 for BF measurement instructions.
 
 **To input BF measurements, click the "Calculator" icon**
 
 **Input "Waist" and "Neck" measurements **
 1. **Select "OK" button**
 
-
 **Select the "Save" button and take any necessary actions IAW  AFROTCI36-2011**
 
 ## BMI/BF Sheet
-Tuesday, December 14, 2021	12:50 PM
