@@ -92,7 +92,7 @@ the AFROTC restricted site and MS Teams and must be checked daily for HQ message
 you are added to the email distro group and MS Teams channel during detachment in-processing to receive
 notifications via email.
 
- Location **–** Intranet>ROTC>>ARMS Messages or MS Teams>Reserve Officer Training
+- Location **–** Intranet>ROTC>>ARMS Messages or MS Teams>Reserve Officer Training
 Corps>ARMS>Files
 
 
@@ -101,7 +101,7 @@ Corps>ARMS>Files
 Description **–** Intranet is used to publish AFROTC guides, instructions, messages, regional
 updates/information, etc. This will be your go to site to find anything in regard to your job at the Detachment.
 
- https://wings.holmcenter.com/psp/hcp/LANDING/PORT_HCP/s/WEBLIB_PTAL.ISCRIPT1.FieldFormu
+- https://wings.holmcenter.com/psp/hcp/LANDING/PORT_HCP/s/WEBLIB_PTAL.ISCRIPT1.FieldFormu
 la.IScript_PTAL_DASHBOARD?tab=CENTER_OVERVIEW
 
 
@@ -111,78 +111,78 @@ AUGUST
 
 Cadet Enrollment/New Cadet Actions (refer to AFROTCI 36-2011/Admissions Guide)
 
- Ensure all applicants complete online application (WINGS on-boarding)
- New Student Orientation Program (consider advertising through Det Website)
+- Ensure all applicants complete online application (WINGS on-boarding)
+- New Student Orientation Program (consider advertising through Det Website)
 
 ```
- Held the week/weekend prior to class start date
- Ensure cadets complete online WINGS application
+- Held the week/weekend prior to class start date
+- Ensure cadets complete online WINGS application
 ```
- Ensure 3 - and 4 - year HSSP winners fill out travel voucher during New Cadet Orientation briefing
+- Ensure 3 - and 4 - year HSSP winners fill out travel voucher during New Cadet Orientation briefing
 (entitled to one-way travel reimbursement)
 
 ```
- Complete orders and contact FSO for required documents/processing actions
+- Complete orders and contact FSO for required documents/processing actions
 ```
- Ensure HSSP winners complete the “Scholarship Statement of Understanding”, which must be completed
+- Ensure HSSP winners complete the “Scholarship Statement of Understanding”, which must be completed
 by ALL 3 - and 4-yr scholarship designees (complete within first 10 days of fall term or upon enlistment,
 whichever occurs first)
- Follow the AFROTC Form 63
- Retrieve all required documents for new applicants (Birth Certificate, SS Card, AFROTC Form 28; Pre-
+- Follow the AFROTC Form 63
+- Retrieve all required documents for new applicants (Birth Certificate, SS Card, AFROTC Form 28; Pre-
 Participatory Sports Physical, Transcripts, Selective Service Number (males only), ACT/SAT Scores, DD
 Form 785 (if previously enrolled in a commissioning program), DD 214 (if prior service), JROTC Awards
 & year of completion, Civil Air Patrol (CAP) awards (refer to the AFROTC Form 63)
- Ensure all actions are complete within the Enrollment/Classification section in WINGS (Cadet
+- Ensure all actions are complete within the Enrollment/Classification section in WINGS (Cadet
 Data>Enrollment Classification)
 
 WINGS Updates
 
- Update host and crosstown term dates for academic year campus terms (watch for emails and complete
+- Update host and crosstown term dates for academic year campus terms (watch for emails and complete
 NLT 1 August)
- Academic Level & AS year update must be complete on all cadets NET 10 days prior to the first day of
+- Academic Level & AS year update must be complete on all cadets NET 10 days prior to the first day of
 school with an effective date of the first day of host institution classes, except for AS700/800/
 (completed day following last day of Spring Term)
- If POC cadets do not contract after the first 10 days, you will need to place them in Pursuing Status and
+- If POC cadets do not contract after the first 10 days, you will need to place them in Pursuing Status and
 counsel cadet (Cadets are only authorized to remain in pursuing status for one academic term; they must
 contract NLT 10-day into the following term)
- Collect Summer transcripts and update GPAs accordingly. Remember to update your Host Summer
+- Collect Summer transcripts and update GPAs accordingly. Remember to update your Host Summer
 school dates if you are needing to update Summer GPAs.
 
 Fall Enlistments/Contracting (refer to AFROTCI 36-2011/AFMAN 36-2032/AFROTC Form 63)
 
- Authorized to be done 10 workdays prior but, should complete NLT 10 workdays after host institution
+- Authorized to be done 10 workdays prior but, should complete NLT 10 workdays after host institution
 start date if cadets meet all requirements
- Conduct BMI checks on all cadets within 15 days prior to contracting
- Ensure DOG/DOC is realistic (do not contract non-HSSP cadets without a confirmed academic plan
+- Conduct BMI checks on all cadets within 15 days prior to contracting
+- Ensure DOG/DOC is realistic (do not contract non-HSSP cadets without a confirmed academic plan
 reflecting current DOG/DOC)
- Enlist ONLY when eligible (passed PFA, Ht/Wt, verified full-time status, CGPA > 2.5, etc.
- Complete enlistments and update WINGS
+- Enlist ONLY when eligible (passed PFA, Ht/Wt, verified full-time status, CGPA > 2.5, etc.
+- Complete enlistments and update WINGS
 
 
 Fall Fitness Qualifications/Height & Weight Check
 
- Ensure all cadet fill out Fitness Screening Questionnaire prior to the First PT session
- Ensure BFMs are accomplished (as needed)
- Take appropriate scholarship actions – conditionals/temp inactivation/suspensions (notify University
+- Ensure all cadet fill out Fitness Screening Questionnaire prior to the First PT session
+- Ensure BFMs are accomplished (as needed)
+- Take appropriate scholarship actions – conditionals/temp inactivation/suspensions (notify University
 stating Cadet will pay for this term’s tuition if this is their 2nd or 3rd Conditional Event)
- Update Height and Weight in WINGS
+- Update Height and Weight in WINGS
 
 Cadet Pay Actions (refer to HCI 65-101)
 
- Create Cadet Pay records for newly contracted cadets
- Recalculate 600 - & 900 - day stop dates
- Counsel on last day of pay AS400 and AS
- Update WINGS, ensure you ‘flow’ or ‘send’ ELD change transaction to DFAS if needed (failure to do so
+- Create Cadet Pay records for newly contracted cadets
+- Recalculate 600 - & 900 - day stop dates
+- Counsel on last day of pay AS400 and AS
+- Update WINGS, ensure you ‘flow’ or ‘send’ ELD change transaction to DFAS if needed (failure to do so
 may affect the cadets pay in the future)
 
 SEPTEMBER
 
 Security Clearances
 
- All contracted AS300 cadets are required to undergo a SECRET clearance investigation
- SECRET clearance investigations must be requested NLT 30 days after the start of the Fall academic term
+- All contracted AS300 cadets are required to undergo a SECRET clearance investigation
+- SECRET clearance investigations must be requested NLT 30 days after the start of the Fall academic term
 or 30 days after the cadet becomes eligible for investigation; whichever is later
- Cadets selected for AFSCs that require a TOP SECRET clearance require TOP SECRET investigations
+- Cadets selected for AFSCs that require a TOP SECRET clearance require TOP SECRET investigations
 (TOP SECRET investigations must be requested NLT 30 days after a cadet’s selection for an AFSC
 requiring it or 30 days after the favorable adjudication of the cadet’s SECRET clearance; whichever is later)
 
@@ -192,18 +192,18 @@ commissioning and ensure you contact the HQ Security Management Office prior to 
 ```
 Tuition
 
- Send Fall Scholarship Memorandum (denoting which cadets are tentatively scheduled to have their tuition
+- Send Fall Scholarship Memorandum (denoting which cadets are tentatively scheduled to have their tuition
 paid by AFROTC) to the universities (NLT 30 days after class start date)
- Enter estimates into WINGS for each term/quarter of the current AY by 1 September
- Do not process scholarship tuition/textbook payments for AFROTC cadets for Fall term until the 45 th day
+- Enter estimates into WINGS for each term/quarter of the current AY by 1 September
+- Do not process scholarship tuition/textbook payments for AFROTC cadets for Fall term until the 45 th day
 of the term (Fall only)
- Process SL ECP/NECP tuition at the beginning of the Fall term (45-day rule does not apply)
+- Process SL ECP/NECP tuition at the beginning of the Fall term (45-day rule does not apply)
 
 ```
- Do not process textbook payments for SL ECP/NECP students until the AF1034 template is received
+- Do not process textbook payments for SL ECP/NECP students until the AF1034 template is received
 from the Holm Center/SDFA office (timelines can be located in AFROTCI 36-2011).
 ```
- Scholarships not activated by the last day of the term will be withdrawn, unless waiver is approved by
+- Scholarships not activated by the last day of the term will be withdrawn, unless waiver is approved by
 AFROTC/RRFP
 
 ```
@@ -211,25 +211,25 @@ AFROTC/RRFP
 ```
 WINGS Updates
 
- All new students enrolled completely in WINGS by end of month
+- All new students enrolled completely in WINGS by end of month
 
 
 DoD Medical Examinations (DoDMERB)
 
- Initiate DoDMERB exams for new walk-on cadets (Begin with AS250 cadets)
+- Initiate DoDMERB exams for new walk-on cadets (Begin with AS250 cadets)
 
 OCTOBER
 
 Records Management
 
- Transfer current FY files to inactive, create new files as needed
- Maintain or remove files IAW the current records disposition schedule (RDS)
- Contact region for access to AFRIMS
+- Transfer current FY files to inactive, create new files as needed
+- Maintain or remove files IAW the current records disposition schedule (RDS)
+- Contact region for access to AFRIMS
 
 Tuition
 
- Process Fall semester/term tuition and textbook payments NET 45th day of host institution start date
- IMPORTANT: Both tuition and textbook payments DO NOT TAKE PLACE ANY EARLIER THAN
+- Process Fall semester/term tuition and textbook payments NET 45th day of host institution start date
+- IMPORTANT: Both tuition and textbook payments DO NOT TAKE PLACE ANY EARLIER THAN
 the 45th day of class in the host institution start date
 
 ```
@@ -237,17 +237,17 @@ the 45th day of class in the host institution start date
 ```
 Fall Commissioning Prep (start prep work in early October)
 
- Review/Complete AFROTC Form 64
- Complete documents/actions NLT 2 weeks prior to commissioning
- Ensure DD 1AF (Commissioning Certificate) and large binders are on-hand
- Request degree certification letter (provide to cadets and request signature/seal from university
+- Review/Complete AFROTC Form 64
+- Complete documents/actions NLT 2 weeks prior to commissioning
+- Ensure DD 1AF (Commissioning Certificate) and large binders are on-hand
+- Request degree certification letter (provide to cadets and request signature/seal from university
 registrars/bursars/student accounts office)
- Request official transcripts from university
- Conduct Commissioning PFA Complete NET 30 days prior to commissioning
+- Request official transcripts from university
+- Conduct Commissioning PFA Complete NET 30 days prior to commissioning
 
 Commissioning Physicals
 
- Schedule/Submit Commissioning extensions for cadets whose DoDMERB will expire prior to their
+- Schedule/Submit Commissioning extensions for cadets whose DoDMERB will expire prior to their
 commissioning date (refer to ROTC Medical Processing Guide)
 
 ```
@@ -255,75 +255,75 @@ commissioning date (refer to ROTC Medical Processing Guide)
 ```
 In-College Scholarship Program (ICSP) Eligibility
 
- Continue to monitor possible candidates (review transcripts collect information from AS instructor)
- Submit nominations in WINGS (look out for ARMS Message)
+- Continue to monitor possible candidates (review transcripts collect information from AS instructor)
+- Submit nominations in WINGS (look out for ARMS Message)
 
 Categorization Prep (Rated/Non-Rated)
 
- Officers brief cadets on programs
- Rated preferences input by cadets in WINGS when board opens
- Verify physical for projected category
- Schedule TBAS
- If cadet has additional flight hours to log, request an update by sending a scanned copy of their flight log
+- Officers brief cadets on programs
+- Rated preferences input by cadets in WINGS when board opens
+- Verify physical for projected category
+- Schedule TBAS
+- If cadet has additional flight hours to log, request an update by sending a scanned copy of their flight log
 book and Flight Update Memo (https://access.afpc.af.mil/pcsmdmz/forms.html) to afpc.pcsm@us.af.mil
 
 
 Form 53 Process (Base of Preference)
 
- Follow guidance from your region, normally sent via ARMS/email message
+- Follow guidance from your region, normally sent via ARMS/email message
 
 ```
- Website only opened for updating for a short period of time for upcoming FY Commissionees
- Cadre access will be provided by your region when the database opens
+- Website only opened for updating for a short period of time for upcoming FY Commissionees
+- Cadre access will be provided by your region when the database opens
 ```
 ```
 *NOTE: AFPC must fix issues with Cadet accounts
 ```
 Fall PFA
 
- Schedule PFA (see Physical Training Guidance)
- Update PFA and height/weight in WINGS
+- Schedule PFA (see Physical Training Guidance)
+- Update PFA and height/weight in WINGS
 
 NOVEMBER
 
 Professional Development Training (PDT) Briefings
 
- Provide cadets with PDT Volunteer Statement (AFROTC Form 9), conduct PDT briefing
+- Provide cadets with PDT Volunteer Statement (AFROTC Form 9), conduct PDT briefing
 (AFROTC Form 5), and PDT Unit Processing Checklist (AFROTC Form 6) IAW guidance from
 ARMS message, AFROTC PDT Guide, and guide for specific PDT
- Ensure cadets contact escort cadre
+- Ensure cadets contact escort cadre
 
 Records Review
 
- Complete for cadets projected to commission at the end of Fall term
- Ensure all discrepancies are completed prior to commissioning
+- Complete for cadets projected to commission at the end of Fall term
+- Ensure all discrepancies are completed prior to commissioning
 
 DECEMBER
 
 Check **‘Status’** of Cadets in Pursuing Status
 
- Ensure all cadets are contracted and removed from pursuing status (as required)
- Request extension for cadets who need additional term of pursuing status via Form 22 package
+- Ensure all cadets are contracted and removed from pursuing status (as required)
+- Request extension for cadets who need additional term of pursuing status via Form 22 package
 
 Unofficial Transcripts
 
- Request from universities
- Review transcripts and identify scholarship actions, annotate scholarship action via counseling
+- Request from universities
+- Review transcripts and identify scholarship actions, annotate scholarship action via counseling
 (conditionals/suspensions/terminations/reactivations)
- Update Term & Cum GPA in WINGS
+- Update Term & Cum GPA in WINGS
 
 In-College Scholarship Program (ICSP) Eligibility
 
- Continue to monitor possible candidates, Review transcripts
- Submit nominations in WINGS (look out for ARMS Message)
+- Continue to monitor possible candidates, Review transcripts
+- Submit nominations in WINGS (look out for ARMS Message)
 
 Fall Commissioning (refer to AFROTC Form 64)
 
- Submit/upload commissioning documents via MyPers IAW Accession Live instructions Guide (Electronic
+- Submit/upload commissioning documents via MyPers IAW Accession Live instructions Guide (Electronic
 
 
 Form 24 User Guide), with five duty days after appointment
- If directed to send packages via mail; do so within five duty days after appointment to AFPC/DP1TAM
+- If directed to send packages via mail; do so within five duty days after appointment to AFPC/DP1TAM
 Officer Accessions:
 
 ```
@@ -331,7 +331,7 @@ HQ AFPC/DP1TAM
 550 C ST WEST, BLDG 492
 RANDOLPH AFB TX 78150
 ```
- Ensure official transcripts for Fall commissionees have been sent to AFIT (requirement is NLT 90 - days
+- Ensure official transcripts for Fall commissionees have been sent to AFIT (requirement is NLT 90 - days
 after commissioning)
 
 ```
@@ -343,48 +343,48 @@ JANUARY
 
 New Cadet Actions
 
- Ensure cadets complete online application (WINGs on-boarding)
- Follow AFROTC Form 63
- Retrieve all required documents for new applicants (Birth Certificate, SS Card, AFROTC Form 28; Pre-
+- Ensure cadets complete online application (WINGs on-boarding)
+- Follow AFROTC Form 63
+- Retrieve all required documents for new applicants (Birth Certificate, SS Card, AFROTC Form 28; Pre-
 Participatory Sports Physical, Transcripts, Selective Service Number (males only), ACT/SAT Scores, DD
 Form 785 (if previously enrolled in a commissioning program), DD 214 (if prior service), JROTC Awards
 & year of completion, Civil Air Patrol (CAP) awards (refer to the AFROTC Form 63)
 
 Tuition
 
- Send Spring Scholarship Memorandum (denoting which cadets are tentatively scheduled to have their
+- Send Spring Scholarship Memorandum (denoting which cadets are tentatively scheduled to have their
 tuition paid by AFROTC) to the universities on the first day of the Spring term
- Process Spring tuition and textbook payments (must arrive at HQ NLT 30 days after beginning of Spring
+- Process Spring tuition and textbook payments (must arrive at HQ NLT 30 days after beginning of Spring
 term)
- Scholarships not activated by the last day of the term will be withdrawn, unless waiver is approved by
+- Scholarships not activated by the last day of the term will be withdrawn, unless waiver is approved by
 AFROTC/RRFP
- Process ECP student books, via SF1034, for Fall and Spring terms (annual textbooks)
+- Process ECP student books, via SF1034, for Fall and Spring terms (annual textbooks)
 
 ```
 *NOTE: Tuition & Textbook reimbursement is not paid for cadets who discontinue prior to payment
 ```
 Spring Enlistments/Contracting (refer to AFROTCI 36-2011/AFMAN 36-2032/AFROTC Form 63)
 
- Conduct BMI checks on all cadets within 15 days prior to contracting
- Ensure DOG/DOC is realistic
- Enlist ONLY when eligible (passed PFA, Ht/Wt, verified full-time status, CGPA > 2.5, etc.) (refer to
+- Conduct BMI checks on all cadets within 15 days prior to contracting
+- Ensure DOG/DOC is realistic
+- Enlist ONLY when eligible (passed PFA, Ht/Wt, verified full-time status, CGPA > 2.5, etc.) (refer to
 AFROTC Form 63)
- Complete enlistments and update WINGS
+- Complete enlistments and update WINGS
 
 Rated Categorization Boards
 
- Ensure TBAS has been administered to all candidates and PCSM scores are in records
+- Ensure TBAS has been administered to all candidates and PCSM scores are in records
 
 
- Ensure CC completes final rankings
- Ensure WINGS checklists have been updated for PPQ/PRPQ/PNQ (found under Rated Screening Exams in
+- Ensure CC completes final rankings
+- Ensure WINGS checklists have been updated for PPQ/PRPQ/PNQ (found under Rated Screening Exams in
 WINGS)
 
 PSP Eligibility
 
- Ensure all eligible candidates will be available in summer to attend FT (be on the lookout for ARMS
+- Ensure all eligible candidates will be available in summer to attend FT (be on the lookout for ARMS
 message with additional details and suspense’s)
- Start gathering PSP information (airport code, immunization records, availability dates)
+- Start gathering PSP information (airport code, immunization records, availability dates)
 
 ```
 *NOTE: Timely, accurate inputs are absolutely essential. Please pay attention to the details and READ
@@ -392,40 +392,40 @@ all guidance/requirements provided via ARMS/FT Execution Plan. HQ understands th
 glitches; RRFP will work with you on those. There is no excuse for “forgetting” to submit your
 applicants
 ```
- Verify Majors and DOC for AS200/250s
+- Verify Majors and DOC for AS200/250s
 
 Spring Fitness Qualifications/Height & Weight Check
 
- Ensure BFMs are accomplished (as needed)
- Take appropriate scholarship actions – conditionals/temp inactivation/suspensions (notify University
+- Ensure BFMs are accomplished (as needed)
+- Take appropriate scholarship actions – conditionals/temp inactivation/suspensions (notify University
 stating Cadet will pay for this term’s tuition if this is their 2nd or 3rd Conditional)
- Update WINGS
+- Update WINGS
 
 Spring PT
 
- Schedule PFA; see Physical Training Guidance
- Ensure cadets complete Fitness Screening Questionnaire prior to PFA
- Update WINGS
+- Schedule PFA; see Physical Training Guidance
+- Ensure cadets complete Fitness Screening Questionnaire prior to PFA
+- Update WINGS
 
 ITE Annual Inventory (Holm Center IAO wants these done the beginning of each CY)
 
- Complete computer/equipment inventory for IT Refresh and upload updated/signed inventory list into
+- Complete computer/equipment inventory for IT Refresh and upload updated/signed inventory list into
 WINGS
- Request new inventory via WINGS (must submit new appointment letter and annual training certificate
+- Request new inventory via WINGS (must submit new appointment letter and annual training certificate
 to gain access to inventory list – All available in WINGS>IT Asset Management)
- Complete computer/equipment inventory for IT Refresh and upload updated/signed inventory list into
+- Complete computer/equipment inventory for IT Refresh and upload updated/signed inventory list into
 WINGS
 
 FEBRUARY
 
 Identify Potential (ICSP) Nominees for Phase I (refer to AFROTCI 36 - 2011/Medical Processing Guide)
 
- Verify eligibility requirements are met
- Initiate DODMERB physicals
- Identify and complete applicable updates in WINGS
+- Verify eligibility requirements are met
+- Initiate DODMERB physicals
+- Identify and complete applicable updates in WINGS
 Finalize PSP (follow ARMS guidance from HQ)
 
- Verify eligibility with – Standardized test scores, AFOQT, CGPA, PFA, PPQ, DoDMERB
+- Verify eligibility with – Standardized test scores, AFOQT, CGPA, PFA, PPQ, DoDMERB
 
 
 ```
@@ -434,40 +434,40 @@ physical
 ```
 *NOTE: must be certified prior to nomination
 ```
- Ensure all updates in WINGS are complete
+- Ensure all updates in WINGS are complete
 
 Professional Development Training Prep (PDT)
 
- Submit nominations in WINGS and submit nominations to Region when applicable
- ARMS messages will be sent down with instructions on how to submit nominations
- If a cadet is selected, you will proceed to follow the Travel Planning Worksheet guide when applicable
+- Submit nominations in WINGS and submit nominations to Region when applicable
+- ARMS messages will be sent down with instructions on how to submit nominations
+- If a cadet is selected, you will proceed to follow the Travel Planning Worksheet guide when applicable
 
 ```
 *NOTE: Follow ARMS messages/Execution Plans sent from HQs
 ```
 Complete Semi-Annual SAPM Checklist
 
- Utilize AFROTC Compliance Tracker and Semi-annual Self-assessment Report to findings to Region and
+- Utilize AFROTC Compliance Tracker and Semi-annual Self-assessment Report to findings to Region and
 CCV (Stan/Eval)
 
 Annual Family Care Responsibility Briefing
 
- CC briefing to all military members (includes AFIT & AECP students)
+- CC briefing to all military members (includes AFIT & AECP students)
 
 Commissioning Physicals
 
- Schedule/Submit Commissioning extensions for cadets whose DoDMERB will expire prior to their
+- Schedule/Submit Commissioning extensions for cadets whose DoDMERB will expire prior to their
 commissioning date (refer to Medical Processing Guide - MPG)
- Also check all DoDMERB qualified cadets and expiration dates to ensure 5 th^ year students do not go
+- Also check all DoDMERB qualified cadets and expiration dates to ensure 5 th^ year students do not go
 without a qualified physical at any point
 
 Rated Categorization Release
 
- Complete AF IMT 1056 change page as appropriate
- Initiate Security Clearance upgrades for Cadets selected for AFSCs that require a TOP SECRET clearance
- Schedule FC1/1A physicals (appointments will become available through the Training module in WINGS)
+- Complete AF IMT 1056 change page as appropriate
+- Initiate Security Clearance upgrades for Cadets selected for AFSCs that require a TOP SECRET clearance
+- Schedule FC1/1A physicals (appointments will become available through the Training module in WINGS)
 (follow HQ guidance)
- Look for guidance on Medical Flight Screening (MFS) with USAFSAM/ACS at Wright Patterson AFB,
+- Look for guidance on Medical Flight Screening (MFS) with USAFSAM/ACS at Wright Patterson AFB,
 usually scheduled/completed during summer
 
 MARCH
@@ -475,60 +475,60 @@ MARCH
 Extended/Additional Entitlements **–** Eligible candidates must be submitted prior to the completion of
 their original scholarship
 
- Only available for scholarship cadets enrolled in a SECAF-approved 5 - yr major
- Counsel all 5-Yr cadets in WINGs
- Notify HQ AFROTC/RRUC, via Det/CC letter and/or AFROTC Form 88
+- Only available for scholarship cadets enrolled in a SECAF-approved 5 - yr major
+- Counsel all 5-Yr cadets in WINGs
+- Notify HQ AFROTC/RRUC, via Det/CC letter and/or AFROTC Form 88
 Professional Development Training (PDT) Program Actions
 
- Ensure cadets have appropriate physicals (if required – AFAAF, SOAR, Airborne, Survival, etc.)
+- Ensure cadets have appropriate physicals (if required – AFAAF, SOAR, Airborne, Survival, etc.)
 
 
- Ensure cadets have appropriate security clearances (if required)
- Verify completion of PDT Volunteer Statement (AFROTC Form 9) and PDT briefing (AFROTC Form 5)
- Complete PDT Unit Processing Checklist (AFROTC Form 6)
+- Ensure cadets have appropriate security clearances (if required)
+- Verify completion of PDT Volunteer Statement (AFROTC Form 9) and PDT briefing (AFROTC Form 5)
+- Complete PDT Unit Processing Checklist (AFROTC Form 6)
 
 ```
 *NOTE: Follow ARMS messages/Execution Plans sent from HQs
 ```
 ICSP Release
 
- Verify eligibility requirements are met
- Contract all ICSP recipients
- Conduct BMI checks on all cadets within 15 days prior to contracting and ensure they have a current passing PFA
- Contract NLT the day of the term - a waiver needs to be submitted for requesting activation outside the last
+- Verify eligibility requirements are met
+- Contract all ICSP recipients
+- Conduct BMI checks on all cadets within 15 days prior to contracting and ensure they have a current passing PFA
+- Contract NLT the day of the term - a waiver needs to be submitted for requesting activation outside the last
 day of the term
 
 Prepare FT Administrative Timeline
 
- Ensure cadets review FT Manual
- Create pay records
- Complete FT part-time SGLI letter and direct cadet to mail letter and payment to DFAS, per FT Execution
+- Ensure cadets review FT Manual
+- Create pay records
+- Complete FT part-time SGLI letter and direct cadet to mail letter and payment to DFAS, per FT Execution
 Plan (only if cadet elects to opt into SGLI during FT)
- Announce bag drag and out-processing dates
+- Announce bag drag and out-processing dates
 
 Submit IT Refresh request
 
- Your region will send out instructions
+- Your region will send out instructions
 
 Form 53 Process for Next Fiscal Year
 
- Reference guidance and dates in ARMS message received from HQs & your region
+- Reference guidance and dates in ARMS message received from HQs & your region
 
 Spring Commissioning (start prep-work in early March)
 
- Review/Complete AFROTC Form 64
- Complete documents/actions NLT 2 weeks prior to commissioning
- Ensure DD 1AF (Commissioning Certificate) and large binders are on-hand
- Request degree certification letter (provide to cadets and request signature/seal from university
+- Review/Complete AFROTC Form 64
+- Complete documents/actions NLT 2 weeks prior to commissioning
+- Ensure DD 1AF (Commissioning Certificate) and large binders are on-hand
+- Request degree certification letter (provide to cadets and request signature/seal from university
 registrars/bursars/student accounts office)
- Request official transcripts from university
- Conduct Commissioning PFA Complete NET 30 days prior to commissioning
+- Request official transcripts from university
+- Conduct Commissioning PFA Complete NET 30 days prior to commissioning
 
 APRIL
 
 AFSC Classification Release
 
- Schedule appropriate medical physical
+- Schedule appropriate medical physical
 
 ```
 *NOTE: Pay close attention to special requirements for Rated/Non-Rated Ops, ATC SOD & MOD (e.g.
@@ -538,31 +538,31 @@ AFSC Classification Release
 ```
 *NOTE: Refer to MPG and AF Officer Classification Directory (AFOCD) on MyPers
 ```
- Ensure Personnel Processing Codes (PPC) are processed ASAP (refer to PPC guide)
+- Ensure Personnel Processing Codes (PPC) are processed ASAP (refer to PPC guide)
 
 Out-process cadets for FT
 
- Height/Weight check for all AS200/250s attending Field Training NET 30 days prior to the end of the
+- Height/Weight check for all AS200/250s attending Field Training NET 30 days prior to the end of the
 Spring term
- Verify completion of FT Assignment Brief, FT Uniform Equipment Checklist, and Out-processing
+- Verify completion of FT Assignment Brief, FT Uniform Equipment Checklist, and Out-processing
 Checklist
- Verify TPW completion
- Verify paid itinerary has been received
+- Verify TPW completion
+- Verify paid itinerary has been received
 
 MAY
 
 Unofficial Transcripts
 
- Request from universities
- Review transcripts and identify scholarship actions, annotate scholarship action via counseling
+- Request from universities
+- Review transcripts and identify scholarship actions, annotate scholarship action via counseling
 (conditionals/suspensions/terminations/reactivations)
- Update Term & Cum GPA in WINGS
+- Update Term & Cum GPA in WINGS
 
 Spring Commissioning Packages (refer to AFROTC Form 64)
 
- Submit/upload commissioning documents via MyPers IAW Accession Live instructions Guide (Electronic
+- Submit/upload commissioning documents via MyPers IAW Accession Live instructions Guide (Electronic
 Form 24 User Guide), with five duty days after appointment
- If directed to send packages via mail; do so within five duty days after appointment to AFPC/DP1TAM
+- If directed to send packages via mail; do so within five duty days after appointment to AFPC/DP1TAM
 Officer Accessions:
 
 ```
@@ -570,7 +570,7 @@ HQ AFPC/DP1TAM
 550 C ST WEST, BLDG 492
 RANDOLPH AFB TX 78150
 ```
- Ensure official transcripts for Spring commissionees have been sent to AFIT (requirement is NLT 90
+- Ensure official transcripts for Spring commissionees have been sent to AFIT (requirement is NLT 90
 days after commissioning)
 
 ```
@@ -580,60 +580,60 @@ WRIGHT PATTERSON AFB, OH 45433
 ```
 Out-process cadets for PDT (may need to be done earlier if Spring term ends in April)
 
- Verify completion of AFROTC Form 5. AFROTC Form 6, and AFROTC Form 9
- Verify that cadets have contacted escort cadre
- Ensure TPW has been completed
- Ensure cadet travel has been paid for (if paid itinerary is not received 72-hours
+- Verify completion of AFROTC Form 5. AFROTC Form 6, and AFROTC Form 9
+- Verify that cadets have contacted escort cadre
+- Ensure TPW has been completed
+- Ensure cadet travel has been paid for (if paid itinerary is not received 72-hours
 prior to travel, contact Travco)
- Provide cadet with PDT orders and travel itinerary
+- Provide cadet with PDT orders and travel itinerary
 
 
 JUNE
 
 Begin or schedule summer records review (not required but, HIGHLY RECOMMENDED)
 
- Prepare discrepancy notifications
- Complete required actions within 30 days after Fall class start date
+- Prepare discrepancy notifications
+- Complete required actions within 30 days after Fall class start date
 
 Complete Semi-Annual SAPM Checklist
 
- Utilize AFROTC Compliance Tracker and Semi-annual Self-assessment Report to findings to Region and
+- Utilize AFROTC Compliance Tracker and Semi-annual Self-assessment Report to findings to Region and
 CCV (Stan/Eval)
 
 Complete Uniform Inventory (required to be done between May and Sept annually)
 
- Ensure physical inventory matches WINGS
- Order brushed nickel/silver blues name tapes (service coats) for cadets that will complete FT
+- Ensure physical inventory matches WINGS
+- Order brushed nickel/silver blues name tapes (service coats) for cadets that will complete FT
 
 JULY
 
 New Cadet Orientation Program Packages
 
- Establish date for new cadet/student orientation
- Complete welcome package for inbound students
- Start to advertise “New Cadet/Student Orientation” briefing date(s) and requirements (via Web, Mail, etc.)
- Review guidance for On-Boarding cadets in WINGS
- Verify that information on detachment site is correct
+- Establish date for new cadet/student orientation
+- Complete welcome package for inbound students
+- Start to advertise “New Cadet/Student Orientation” briefing date(s) and requirements (via Web, Mail, etc.)
+- Review guidance for On-Boarding cadets in WINGS
+- Verify that information on detachment site is correct
 
 Annual pubs/forms review
 
- Ensure pubs/forms on file are current (should be done monthly or as needed)
+- Ensure pubs/forms on file are current (should be done monthly or as needed)
 
- Review Det OIs as well Tuition
+- Review Det OIs as well Tuition
 
- Obtain or request rate guides for courses and fees from universities (up-to-date rates can usually be
+- Obtain or request rate guides for courses and fees from universities (up-to-date rates can usually be
 found in each University’s Registrar Website) – Unless ARMS message states otherwise
 
 Begin preparing **HSSP Winner’s** Enlistment Paperwork
 
- Check the Holm Center restricted (Intranet) Website, Registrar’s link, to obtain the Letter of Admittance
+- Check the Holm Center restricted (Intranet) Website, Registrar’s link, to obtain the Letter of Admittance
 (LOA) Roster
 
 ```
- The LOA Roster contains the names of High School Scholarship Program (HSSP) designees who
+- The LOA Roster contains the names of High School Scholarship Program (HSSP) designees who
 have returned their LOA to RRUC
 ```
- Get HSSP home address and prepare HSSP Travel Orders
+- Get HSSP home address and prepare HSSP Travel Orders
 
 
 ## Cadet Records/Application Process CADET PERSONNEL ACTIONS
@@ -654,7 +654,7 @@ Sections 1 - 4 (mandatory coversheets located on the Intranet).
 
 Life Cycle **–** When to complete forms:
 
- The Det will establish an AF Form 10, Unit Personnel Record Group (Folder), to contain forms and other
+- The Det will establish an AF Form 10, Unit Personnel Record Group (Folder), to contain forms and other
 records. File the documents in the following sections: Section I, Guidance Records, Correspondence, and
 Orders; Section II, Evaluation Instruments; Section III, Records of Membership; and Section IV, Medical
 
@@ -675,7 +675,7 @@ conduct a thorough records review. It’s best to meet in a room with a large ta
 few records together. This is a time-consuming task, so be sure to allow sufficient time to complete each
 record.
 
- Reference AFROTC Guide Admissions Process & AFROTC Applicant Admission Process Guide via
+- Reference AFROTC Guide Admissions Process & AFROTC Applicant Admission Process Guide via
 CCV Intranet site
 
 ## Student Management Roster (SMR)
@@ -690,18 +690,18 @@ _“true”_ basic understanding of the SMR Roster with time, we hope these shor
 quickly grasp and understand this critical roster:
 
 
- The SMR is a standard 4 column, 8 - row version that outputs 12 cadets per page (titled "SMR") when you
+- The SMR is a standard 4 column, 8 - row version that outputs 12 cadets per page (titled "SMR") when you
 leave the EMPLID blank or a single cadet when you provide a specific EMPLID
- Identifying info terms in the SMR that you may not be familiar with:
+- Identifying info terms in the SMR that you may not be familiar with:
 
 ```
- EMPLID – This is just a code that is used in place of the SSN and is 7 numbers long
- FICE CODE – This is a 6 - number code that lets you know which school the cadet is attending
+- EMPLID – This is just a code that is used in place of the SSN and is 7 numbers long
+- FICE CODE – This is a 6 - number code that lets you know which school the cadet is attending
 under your host school.
- LAST DP – This is the Last day of Pay for the Cadet. This is never after the commissioning date
- FT – is a short term for Field Training
- Cat Sel – This is the results for Categorization Selections
- MRS – This is for Medical Remedial Status to let you know that you have a Cadet with a medical
+- LAST DP – This is the Last day of Pay for the Cadet. This is never after the commissioning date
+- FT – is a short term for Field Training
+- Cat Sel – This is the results for Categorization Selections
+- MRS – This is for Medical Remedial Status to let you know that you have a Cadet with a medical
 problem that is pending at AETC
 ```
 ## Membership Action Checklist (AFROTC Form 63 )
@@ -747,13 +747,13 @@ Used for:
 
 Validity Period:
 
- DoDMERB physicals are valid for 24 months from the date of the exam for contracting (scholarship, non-
+- DoDMERB physicals are valid for 24 months from the date of the exam for contracting (scholarship, non-
 scholarship or POC)
 
 ```
 **There is no extension beyond the 24 months for contracting**
 ```
- Once contracted the DoDMERB physical becomes valid for 48 months from the date of the certification stamp
+- Once contracted the DoDMERB physical becomes valid for 48 months from the date of the certification stamp
 
 ```
 **If the physical is going to be older than 48 months at the time of commissioning, then the physical can
@@ -776,13 +776,13 @@ Used for:
 
 Validity Period:
 
- MEPS physicals are valid for 24 months from the date of exam for contracting (non-scholarship only)
- Once contracted the MEPS physical becomes valid for 48 months from the date of the certification
+- MEPS physicals are valid for 24 months from the date of exam for contracting (non-scholarship only)
+- Once contracted the MEPS physical becomes valid for 48 months from the date of the certification
 stamp
- If the physical is going to be older than 48 months at the time of commissioning, then the physical can
+- If the physical is going to be older than 48 months at the time of commissioning, then the physical can
 be submitted for an extension
 
- Waiver Authority – HQ AETC/SGPS is the FINAL medical waiver authority for medical conditions.
+- Waiver Authority – HQ AETC/SGPS is the FINAL medical waiver authority for medical conditions.
 
 MTF PHYSICALS
 
@@ -817,37 +817,37 @@ Validity Period – 48 months from DATE OF EXAM (cannot be extended)
 
 How to Schedule - DoDMERB Physicals
 
- Schedule DoDMERB exams through DoDMETS site: https://www.dodmets.com/pages/detach.asp
+- Schedule DoDMERB exams through DoDMETS site: https://www.dodmets.com/pages/detach.asp
 (each Det will have a login that will be utilized to allow to answer required questionnaires and schedule
 medical and optometric exams)
- Check web site after 3 - days to ensure physical was approved and sent to DODMERB
- Conduct status checks weekly after sent to DODMERB via web site:
+- Check web site after 3 - days to ensure physical was approved and sent to DODMERB
+- Conduct status checks weekly after sent to DODMERB via web site:
 https://dodmerb.tricare.osd.mil/UserLogin.aspx
 
 Medical Recheck Status (MRS)
 
- Guidance for change in medical status can be found in the Medical Processing Guide
- Temporarily medically disqualified to commission
- Contract cadets cannot attend FT while on MRS and must be counseled in WINGS via the Counseling
+- Guidance for change in medical status can be found in the Medical Processing Guide
+- Temporarily medically disqualified to commission
+- Contract cadets cannot attend FT while on MRS and must be counseled in WINGS via the Counseling
 Module
 
 ```
 *NOTE: Cadets who are on MRS due to eye surgery may attend FT after 3 months, if cleared by
 their doctor and HQ AETC/SG
 ```
- When released from MRS by HQ AETC/SG, cadet enters a 42 - day reconditioning period and can only
+- When released from MRS by HQ AETC/SG, cadet enters a 42 - day reconditioning period and can only
 take/complete practice PFAs and must pass the PFA NLT 60 calendar days after removal from MRS
 *NOTE: If 60th day occurs during break between terms, waived till next term
 
- When MRS expires or when condition is corrected, the unit must forward Physician’s documentation
+- When MRS expires or when condition is corrected, the unit must forward Physician’s documentation
 (typed or hand-written) stating “Returned to full unrestricted activities”
-
+-
 *NOTE: Send all of the medical documentation (i.e. clinical notes, pharmacy records, etc.), especially
 any forms or reports requested in initial e-mail
 
- HQ AETC/SGPS will either recertify, disqualify, or designate an additional period of MRS
- If recertified, remove cadet from MRS in WINGS
- If disqualified, begin disenrollment actions
+- HQ AETC/SGPS will either recertify, disqualify, or designate an additional period of MRS
+- If recertified, remove cadet from MRS in WINGS
+- If disqualified, begin disenrollment actions
 
 
 AFROTCI 36-2011/DODI 1308.3/AFI 36-2905/AFI36- 2905 _AFROTC_SUP
@@ -862,11 +862,11 @@ do not process a temporary medical deferral/MES, request MRS IAW the Cadet Medic
 
 Medical Waiver Requests (DoDMERB Waiver Process)
 
- If waiverable, disqualified DoDMERB physicals on high school applicants will be automatically
+- If waiverable, disqualified DoDMERB physicals on high school applicants will be automatically
 coordinated via their web site with HQ AETC/SG for waiver
- If waiverable, disqualified DoDMERB physicals for in college applicants must be requested by, or on
+- If waiverable, disqualified DoDMERB physicals for in college applicants must be requested by, or on
 behalf of, the Det/CC via email to HQ AETC/SG (afrs.amwdafrotc.workflow@us.af.mil)
- During the waiver process, any remedial action request will be sent from HQ AETC/SG through
+- During the waiver process, any remedial action request will be sent from HQ AETC/SG through
 DoDMERB to the detachment. The remedial action info will be sent back through DoDMERB to HQ
 AETC/SG, DoDMERB will post final action on their web site
 
@@ -896,8 +896,8 @@ they can participate in ANY AFROTC PT activities, cadets must meet the requireme
 Pre-participatory Requirement: The PTL must ensure the following are located in the Cadet’s vUPRG
 prior to PT participation:
 
- AFROTC Form 28, Pre-Participatory Sports Physical, must accomplished upon program entry
- Sports Physical (AFROTC Form 28) is required annually ONLY if the cadet has not received a Certified
+- AFROTC Form 28, Pre-Participatory Sports Physical, must accomplished upon program entry
+- Sports Physical (AFROTC Form 28) is required annually ONLY if the cadet has not received a Certified
 DoD Physical (DoDMERB, MTF, MEPS)
 
 Other requirements to be completed by Program Administrator – Safety briefing, administration of PFA,
@@ -946,7 +946,7 @@ enlistment (weight, PFA Score, GPA, and valid physical).
 
 Forms **–** Listed on AFROTC Form 63 Section II:
 
- Blank: AF1056, DD Form 4, and AFROTC Form 88 (4-yr scholarship technical winner w/SAF-
+- Blank: AF1056, DD Form 4, and AFROTC Form 88 (4-yr scholarship technical winner w/SAF-
 approved 5 - yr major) or Attachment 3 (academic plan for foreign language or technical requirement for
 non-technical scholarship cadets) –
 
@@ -960,9 +960,9 @@ non-technical scholarship cadets) –
 
 AFROTCI 36- 2011
 
- Forms to be recertified: Civil Involvements in WINGS and AF Form 2030
- Determine appropriate enlistment grade for AF1056 and DD Form 4 (AFMAN 36-2032))
- It is important that you are using the most recent forms. Prior to each contracting you should check your
+- Forms to be recertified: Civil Involvements in WINGS and AF Form 2030
+- Determine appropriate enlistment grade for AF1056 and DD Form 4 (AFMAN 36-2032))
+- It is important that you are using the most recent forms. Prior to each contracting you should check your
 AFROTC Form 63, AF1056, and DD Form 4
 
 ```
@@ -972,10 +972,10 @@ erroneous enlistments and administrative errors**
 ```
 Post Enlistment Actions
 
- AFROTC Form 63 Section III
- Activate scholarships/start pay
- Upload enlistment/contracting documents to WINGS
- Reserve orders (Ensure you update the order number on applicable FY ‘Reserve Orders’ log)
+- AFROTC Form 63 Section III
+- Activate scholarships/start pay
+- Upload enlistment/contracting documents to WINGS
+- Reserve orders (Ensure you update the order number on applicable FY ‘Reserve Orders’ log)
 
 ## Security Clearance
 
@@ -989,7 +989,7 @@ Timeline – All contracted AS300 cadets are required to undergo a SECRET cleara
 SECRET clearance investigations must be requested NLT 30 days after the start of the Fall academic term
 or 30 days after the cadet becomes eligible for investigation, whichever is later.
 
- Cadets selected for AFSCs that require a TOP SECRET clearance require TOP SECRET investigations.
+- Cadets selected for AFSCs that require a TOP SECRET clearance require TOP SECRET investigations.
 TOP SECRET investigations must be requested NLT 30 days after a cadet’s selection for an AFSC
 requiring it or 30 days after the favorable adjudication of the cadet’s SECRET clearance, whichever is
 later.
@@ -1004,7 +1004,7 @@ clearance before opening a JPAS account.
 
 WINGS update **–** Update clearance actions in WINGs for tracking
 
- Reference the Holm Center Intranet Page (Security Continuity/Resources) for getting access to
+- Reference the Holm Center Intranet Page (Security Continuity/Resources) for getting access to
 JPAS/DISS, SWFT, NP2/e-QIP and how to successfully run your program
 
 
@@ -1016,13 +1016,13 @@ AFROTCI 36-2011/DoD 5210.42
 
 ## Personnel Reliability Assurance Program (PRAP)
 
- All Security Forces (31P) and/some AFSCs require PRAP. Initiate PRAP prescreening for all 31Ps and
+- All Security Forces (31P) and/some AFSCs require PRAP. Initiate PRAP prescreening for all 31Ps and
 as required for other AFSCs by the Personnel Processing Code (PPC)
 
 ```
- AFROTC PRAP Manager will send PRAP checklist, PRAP Questionnaire and Processing Guide to
+- AFROTC PRAP Manager will send PRAP checklist, PRAP Questionnaire and Processing Guide to
 detachment’s designated PRAP POC
- You will have to coordinate completion of the ‘medical’ screening requirements through your
+- You will have to coordinate completion of the ‘medical’ screening requirements through your
 servicing Medical Treatment Facility (MTF)
 ```
 ## Air Force Officer Qualifying Test (AFOQT)
@@ -1042,21 +1042,21 @@ remotely piloted training. This test must be performed in order to get a Pilot C
 the PCSM score. The PCSM scores part of the Order of Merit calculation used for rated categorization
 selection.
 
- If you do not have a TBAS machine at your detachment, it is your responsibility to ensure that your cadets
+- If you do not have a TBAS machine at your detachment, it is your responsibility to ensure that your cadets
 interested in competing for pilot categorization get to a testing facility (USAF installation, MEPS or
 another detachment)
- If you are appointed as a TBAS Operator, you are responsible for the following:
- Maintaining the most current publications listed above
- Take the TBAS (preferred in case you have to answer questions) or sign a statement of
+- If you are appointed as a TBAS Operator, you are responsible for the following:
+- Maintaining the most current publications listed above
+- Take the TBAS (preferred in case you have to answer questions) or sign a statement of
 understanding
- After initial TBAS training, complete TBAS training each August
- Ensure the test file, candidate worksheet, transcripts, and copies of the individual flight log are e-
+- After initial TBAS training, complete TBAS training each August
+- Ensure the test file, candidate worksheet, transcripts, and copies of the individual flight log are e-
 mailed to the PCSM admin office pcsm.admin@randolph.af.mil in a timely manner
- To check for the PCSM go to https://pcsm.aetc.af.mil/
- Change access password annually
- If cadet has flight hours to log after initial TBAS/PCSM, scan a copy of the log book and complete the
+- To check for the PCSM go to https://pcsm.aetc.af.mil/
+- Change access password annually
+- If cadet has flight hours to log after initial TBAS/PCSM, scan a copy of the log book and complete the
 Flight Hour Update memo (template located at https://access.afpc.af.mil/pcsmdmz/forms.html)
- Email the memo and copy of the log book to afpc.pcsm@us.af.mil (only 2 score updates can be
+- Email the memo and copy of the log book to afpc.pcsm@us.af.mil (only 2 score updates can be
 processed per email)
 
 
@@ -1074,8 +1074,8 @@ you know what the nomination timelines will be:
 
 PSP – important information to check for this board are:
 
- Accurate DOG/DOC in WINGS, on contract (if applicable), and on AFROTC Form 48
- Accurate Major in WINGS, on contract (if applicable), and on AFROTC Form 48
+- Accurate DOG/DOC in WINGS, on contract (if applicable), and on AFROTC Form 48
+- Accurate Major in WINGS, on contract (if applicable), and on AFROTC Form 48
 
 ```
 *NOTE: These two items are very important when deciding type and FY of enrollment allocations. If there
@@ -1083,15 +1083,15 @@ are any discrepancies in these areas, you must take immediate action to correct 
 from having the cadet correct their Form 48 to a trouble ticket, or may even require a Form 22 waiver
 request
 ```
- Most current PFA scores and height/weight in WINGS (to ensure eligibility)
- Most current GPA in WINGS (to ensure eligibility)
- Updated AFOQT scores in WINGS
- Updated SAT/ACT scores in WINGS
- Updated physical information in WINGS (all cadets must either be medically cleared or be scheduled for
+- Most current PFA scores and height/weight in WINGS (to ensure eligibility)
+- Most current GPA in WINGS (to ensure eligibility)
+- Updated AFOQT scores in WINGS
+- Updated SAT/ACT scores in WINGS
+- Updated physical information in WINGS (all cadets must either be medically cleared or be scheduled for
 a physical)
- Identify the cadets that will be seeking a Nursing, Dental or Pre-Med enrollment allocation
+- Identify the cadets that will be seeking a Nursing, Dental or Pre-Med enrollment allocation
 
- Once the review is complete and necessary updates have been made, you will use the appropriate
+- Once the review is complete and necessary updates have been made, you will use the appropriate
 WINGS Checklists along with your Commander’s ratings to nominate/rank the cadets for PSP
 
 Pilot/RPA/CSO/ABM Categorization – HQ AFROTC will select cadets that will categorize into pilot, RPA,
@@ -1100,11 +1100,11 @@ your detachment are going to compete for these positions.
 
 Categorization preparation:
 
- Ensure candidates meet the AFOQT requirement outlined in AFROTCI 36 - 2011
- Ensure candidates meet medical requirements using the PPQ/PRQ/PNQ Checklist in WINGS
- Ensure all pilot candidates have taken the TBAS and have a PCSM score
- Use appropriate WINGS checklist to nominate cadets for the category in which they will compete
- Use appropriate WINGS checklist and CC ratings to rank order all cadets graduating in that FY
+- Ensure candidates meet the AFOQT requirement outlined in AFROTCI 36 - 2011
+- Ensure candidates meet medical requirements using the PPQ/PRQ/PNQ Checklist in WINGS
+- Ensure all pilot candidates have taken the TBAS and have a PCSM score
+- Use appropriate WINGS checklist to nominate cadets for the category in which they will compete
+- Use appropriate WINGS checklist and CC ratings to rank order all cadets graduating in that FY
 
 ```
 *NOTE: Upon receipt of cadet’s new category, complete a change page to the AF IMT 1056 within 10
@@ -1120,15 +1120,15 @@ AFROTCI 36- 2011
 Description – Field Training (FT) and Professional Development Training (PDT) are programs that
 happen during the summer when AFROTC classes are not in session.
 
- Field Training, which is the AFROTC version of Basic Training, is mandatory for all cadets to attend in
+- Field Training, which is the AFROTC version of Basic Training, is mandatory for all cadets to attend in
 order to commission. They normally attend FT between their sophomore and junior year (after they
 have received an enrollment allocation).
 
- There are different PDTs available for GMC and POC cadets based on their scholarship types and what
+- There are different PDTs available for GMC and POC cadets based on their scholarship types and what
 they are interested in. These trips are to learn more about Air Force life, observe what happens at a base
 by shadowing officer and enlisted personnel.
 
- Some FT prep will occur in the fall and early spring such as ensuring cadets have a current physical or
+- Some FT prep will occur in the fall and early spring such as ensuring cadets have a current physical or
 getting them scheduled for physicals if they do not have them yet. The majority of preparation will
 occur after notification of an enrollment allocation and will be attending FT. After this happens, you will
 use the appropriate WINGS checklists to load the cadets for FT sessions, and also to print their orders.
@@ -1136,23 +1136,23 @@ You will receive instructions and timelines from ARMS messages. You will follow 
 your detachment to set up travel arrangements (either through local agencies or your servicing base).
 You will need this info, along with the government travel rate, to have accurate orders from WINGS.
 
- The ball normally gets rolling on the PDT process in the Fall term with the cadets doing volunteer
+- The ball normally gets rolling on the PDT process in the Fall term with the cadets doing volunteer
 statements. Normally the COC and cadets who have been on PDTs will brief cadets on the opportunities
 and types of PDTs. Once the cadets have decided what they would like to do, the process flows similar to
 FT. You will use WINGS checklists to nominate the cadets for the PDT they would like. Once they are
 loaded by HQ for the appropriate PDT, you will set up the travel, and then use the appropriate WINGS
 checklist to load that information and print the orders.
 
- Reference PDT Processing Guide via CCV intranet site
+- Reference PDT Processing Guide via CCV intranet site
 
 ## HQ Waiver Request (AFROTC Form 22/CPAR)
 
 Description – Det/CCs may request a waiver for cadets and applicants who fail to meet eligibility
 requirements or for contract cadets who fail to maintain retention standards.
 
- AFROTC Form 22, AFROTC/RRFP will maintain a waiver processing guide on the Registrar section
+- AFROTC Form 22, AFROTC/RRFP will maintain a waiver processing guide on the Registrar section
 of the current AFROTC intranet.
- Cadet Personnel Actions (CPAR) can be done via WINGS. Reference the AFROTC Guide Waiver
+- Cadet Personnel Actions (CPAR) can be done via WINGS. Reference the AFROTC Guide Waiver
 Process
 
 Completion – Refer to AFROTCI 36 - 2011, Cadet Personnel Action Request chapter for completion of form.
@@ -1181,7 +1181,7 @@ Disenrollment case files must be submitted for both types. Documentation is the 
 Typical disenrollment decisions are: No action; recoupment of scholarship monies; and called to enlisted
 active duty.
 
- Disenrollment’s are submitted via WINGS, Reference the Disenrollment Guide via the CCV intranet
+- Disenrollment’s are submitted via WINGS, Reference the Disenrollment Guide via the CCV intranet
 site
 
 CLASSIFICATIONS & ASSIGNMENTS
@@ -1199,15 +1199,15 @@ Process – An ARMS message will be sent by HQ ROTC once the Form 53 Webpage is 
 open the technician (you) will have to grant the cadet access to the website. The application process is as
 follows:
 
- Cadet Phase – Each cadet enters information concerning their coursework, projected date of
+- Cadet Phase – Each cadet enters information concerning their coursework, projected date of
 graduation, foreign language skills, prior service history, joint spouse requirements, and AFSC and
 location preferences.
 
- Technician Phase (TEC) – The technician verifies the accuracy of the cadet’s data before forwarding
+- Technician Phase (TEC) – The technician verifies the accuracy of the cadet’s data before forwarding
 the data to the detachment commander for final review or returning the data to the cadet to be
 modified.
 
- Detachment Commander Phase (PAS) – The detachment commander conducts a final review of the
+- Detachment Commander Phase (PAS) – The detachment commander conducts a final review of the
 information submitted by the cadet and enters the cadet’s class ranking.
 
 ## Commissioning
@@ -1221,22 +1221,22 @@ the scheduled commissioning date, ensure the cadet meets the prerequisites for a
 found not to meet all commissioning prerequisites, take appropriate action to change the DOC, qualify the
 cadet, obtain waivers, or disenroll if applicable.
 
- Medical – Must have a current medical examination certified for their AFSC by HQ AETC/SGPS.
+- Medical – Must have a current medical examination certified for their AFSC by HQ AETC/SGPS.
 Do not commission a cadet on medical recheck or without a current certified physical for their
 category.
- Security Clearance – Each cadet must have a security clearance initiated before commissioning. Certain
+- Security Clearance – Each cadet must have a security clearance initiated before commissioning. Certain
 AFSCs require a TS clearance.
- Character **–** Do not commission cadets with pending criminal charges or pending civil
+- Character **–** Do not commission cadets with pending criminal charges or pending civil
 involvement waivers.
- Program Completion **–** Cadets must successfully complete the entire AFROTC program.
+- Program Completion **–** Cadets must successfully complete the entire AFROTC program.
 
- Graduation **–** Obtain written certification from the university to confirm degree requirements. Complete
+- Graduation **–** Obtain written certification from the university to confirm degree requirements. Complete
 block 6 of the AFROTC Form 48.
 
 AFROTC Form 64 is your GO TO for commissioning, the following are documents required for
 commissioning:
 
- Application for Appointment (aka Form 24 Package) – Each cadet must complete an AF Form 24,
+- Application for Appointment (aka Form 24 Package) – Each cadet must complete an AF Form 24,
 Application for Appointment as Reserve of the Air Force or USAF without Component. Prepare the AF
 Form 24 in triplicate as prescribed in AFROTCI 36 - 2011. Obtain original signatures on all copies. You
 will have to mail the “Form 24 Package” within five workdays after appointment (the package consists of
@@ -1247,7 +1247,7 @@ all the forms listed below).
 form out IAW AFROTCI 36 - 2011. Review the form and ensure it is filled out correctly, then print 3
 copies and have the cadet sign/initial each form. You’ll need 3 originals.
 ```
- AF Form 133 – Complete the AF Form 133 according to AFMAN 36- 2032 and the instructions contained
+- AF Form 133 – Complete the AF Form 133 according to AFMAN 36- 2032 and the instructions contained
 on the form. The grade entered is "Second Lieutenant, USAFR." (Reference AFROTC 36 - 2011, GLP,
 nurses and Pre-HPP commissioning.) Pharmacy and Physical Therapy cadets are commissioned as non-
 line in their appropriate category. The form is not signed by the commissionee or by the officer
@@ -1255,36 +1255,36 @@ administering the oath until after the oath has been administered. The date the 
 the effective date of appointment. Type the following statement on top of the original AF Form 133: **_“DD_**
 Form 1AF, Certificate of Commission, was presented to the commissionee on DD-MMM- **_YYYY”._**
 
- Memorandum of Appointment – Present the original to the cadet at the commissioning ceremony and
+- Memorandum of Appointment – Present the original to the cadet at the commissioning ceremony and
 forward two reproduced copies with commissioning documents with their 24 pkg.
 
- DD Form 1AF, Certificate of Commission – Prepare the DD Form 1AF for each commissionee.
+- DD Form 1AF, Certificate of Commission – Prepare the DD Form 1AF for each commissionee.
 IMPORTANT: Ensure the following statement is typed on the top porting of the AF Form 133, Oath
 of Office (Military Personnel) - **_“DD_** Form 1AF, Certificate of Commission, was presented to the
 commissionee on DD-MMM- **_YYYY”._**
- DD FM 88/DD FM 2808/DD FM2351 – RPT OF MEDICAL EXAM
+- DD FM 88/DD FM 2808/DD FM2351 – RPT OF MEDICAL EXAM
 
- DD FM 2807 - 1/SF93 – RPT OF MEDICAL HISTORY (NOT NEEDED)
+- DD FM 2807 - 1/SF93 – RPT OF MEDICAL HISTORY (NOT NEEDED)
 
- All other medical documents associated with the cadet’s commissioning examination (original). This
+- All other medical documents associated with the cadet’s commissioning examination (original). This
 
 
 ```
 includes but not limited to, the EKG, dental x-rays, supplemental medical records, consultation sheets,
 DD Form 2480, DODMERB Report of Dental Corrections, etc.
 ```
- Unit **Commander’s** DG Memorandum and AFROTC Form 402 (Certificate) – The unit commander
+- Unit **Commander’s** DG Memorandum and AFROTC Form 402 (Certificate) – The unit commander
 prepares the memorandum as deemed appropriate. Forward a copy of the memorandum with
 commissioning documents, in 24 pkg, for those who earn this award.
 
- Memorandum of Instruction to Commissionee – Prepare memo IAW AFI 36 - 2011 and provide cadet a
+- Memorandum of Instruction to Commissionee – Prepare memo IAW AFI 36 - 2011 and provide cadet a
 copy.
 
- Reserve Appointment Order – Ensure the Source of Commission (SOC) codes on this order are
+- Reserve Appointment Order – Ensure the Source of Commission (SOC) codes on this order are
 correct. The SOC codes are listed in Attachment 8, AFROTCI 36 - 2011. SOC codes are:
 
 ```
- For Cadets Eligible for the Montgomery GI Bill use one the following Codes:
+- For Cadets Eligible for the Montgomery GI Bill use one the following Codes:
 ```
 ```
 C – AFROTC Distinguished Graduate Non-scholarship 4YR Program
@@ -1293,7 +1293,7 @@ T – AFROTC Distinguished Graduate Non-scholarship 2 YR Program
 U – AFROTC Non-Distinguished Graduate Non-scholarship 2YR program
 ```
 ```
- For Cadets NOT Eligible for the Montgomery GI Bill use one of the following Codes:
+- For Cadets NOT Eligible for the Montgomery GI Bill use one of the following Codes:
 ```
 ```
 R – AFROTC Distinguished Graduate Scholarship 4YR Program
@@ -1301,10 +1301,10 @@ S – AFROTC Non-Distinguished Graduate Scholarship 4YR Program
 V – AFROTC Distinguished Graduate Scholarship 2YR Program
 W – AFROTC Non-Distinguished Graduate Scholarship 2YR Program
 ```
- WINGS Update – Complete WINGS checklist “COMMISSION A CADET” NLT three workdays after
+- WINGS Update – Complete WINGS checklist “COMMISSION A CADET” NLT three workdays after
 appointment.
 
- Submission of Transcripts to AFIT **–** Forward an official, legible copy of each graduate's final college
+- Submission of Transcripts to AFIT **–** Forward an official, legible copy of each graduate's final college
 transcript indicating the degree awarded with appropriate seals, embossments, or authentication, to AFIT
 as soon as possible, but not later than 90 days after commissioning. Include in the memorandum of
 transmittal the name, SSN, and year of birth. AFIT establishes the academic file for all newly
@@ -1315,7 +1315,7 @@ AFIT/RRE
 2950 HOBSON WAY
 WRIGHT PATTERSON AFB, OH 45433
 ```
- Commissioning Miscellaneous:
+- Commissioning Miscellaneous:
 
 ```
 Educational Delays – AFMAN 36-2032, Delay in Active Duty for AFROTC Graduates, governs
@@ -1346,7 +1346,7 @@ Force ROTC cadets who commission and enter active duty after 1 Oct 96 to partici
 if they received $3,400 or less in tuition, fees and books during any year of eligibility. Review
 website http://www.gibill.va.gov/ for eligibility requirements.
 ```
- Retention of Records – File and maintain copies of all documents in the cadet's UPRG for 1 year. Final
+- Retention of Records – File and maintain copies of all documents in the cadet's UPRG for 1 year. Final
 disposition instructions for AFROTC student records are contained in AFI 37 - 138, Disposition of Air
 Force Records-Records Disposition Standards, table 45 - 1, rules 7, 8, 9, and 10.
 
@@ -1361,9 +1361,9 @@ usually paid on the 1st and the 15th of each month via direct deposit.
 
 Who gets it?
 
- AS100/200/250 Contracted scholarship cadets (600 Days not paid during summer).
- AS300/400/450 Contracted scholarship and non-scholarship cadets (600 Days continuous)
- AS700/ 800 cadets enrolled in a SecAF (SAF)-approved 5 - year major IAW HCI 65 - 101 (Authorized 300
+- AS100/200/250 Contracted scholarship cadets (600 Days not paid during summer).
+- AS300/400/450 Contracted scholarship and non-scholarship cadets (600 Days continuous)
+- AS700/ 800 cadets enrolled in a SecAF (SAF)-approved 5 - year major IAW HCI 65 - 101 (Authorized 300
 additional days)
 
 Required Documents – SF1199A or FORMS 2231 (Direct Deposit), W-4, DD IMT 2058, and SGLV 8286.
@@ -1397,25 +1397,25 @@ Who to contact **–** Holm Center SDF and University Bursar/Registrar office.
 Textbook pay – Textbook Reimbursements MUST BE PAID as follows, no exceptions.
 
 ```
- Fall – NET the 45th day after school start date & NLT 60 Days
- Spring – 1st day after term start and NLT 30 days after term start
+- Fall – NET the 45th day after school start date & NLT 60 Days
+- Spring – 1st day after term start and NLT 30 days after term start
 ```
 WINGS – HQ uses Detachments tuition estimates from WINGS to establish a yearly scholarship budget.
 
- Timely and accurate update of tuition data is vital – DO NOT DELAY, update when authorized (HQ will
+- Timely and accurate update of tuition data is vital – DO NOT DELAY, update when authorized (HQ will
 send out ARMS with timeline for updates)
- IMPORTANT - If suspension of scholarship or Termination occurs prior to tuition payment, remove
+- IMPORTANT - If suspension of scholarship or Termination occurs prior to tuition payment, remove
 estimate from WINGS
- If Scholarship is suspended or terminated after payment, remove estimate for following term
+- If Scholarship is suspended or terminated after payment, remove estimate for following term
 
 Scholarship Entitlements
 
- Limited to number of terms, Fall & Spring only during Academic Year (AY)
- The scholarship entitlements are dictated based on the type of scholarship and terms of entitlement
+- Limited to number of terms, Fall & Spring only during Academic Year (AY)
+- The scholarship entitlements are dictated based on the type of scholarship and terms of entitlement
 awarded Entitlements end when AFROTC course requirements are completed, unless cadet is pursuing a
 degree in 5 - year Secretary of the Air Force Program
- Covers tuition, books, and fees (AFROTCI 36 - 2011, Chapter 4 Scholarships)
- Summer school or mini-sessions; funding for these courses is not programmed in the student's authorized
+- Covers tuition, books, and fees (AFROTCI 36 - 2011, Chapter 4 Scholarships)
+- Summer school or mini-sessions; funding for these courses is not programmed in the student's authorized
 terms of entitlements and scholarships will not be activated during these terms/session unless required for
 major and coursework is only offered during the summer or mini-session. AFROTC/RR approval required.
 
@@ -1426,10 +1426,10 @@ Part II, Cadet Acceptance, no earlier than 10 days prior to the cadet entering t
 fifth academic year.
 ```
 ```
- Maintain AFROTC Form 88 with contract in UPRG and send Letter of extended terms of
+- Maintain AFROTC Form 88 with contract in UPRG and send Letter of extended terms of
 entitlement to HQ/RRUC so they can update additional term
- AFROTC Form 88 must be maintained in vUPRG stating eligibility for entitlement
- Determine 5 - yr eligibility prior to reaching 600 - day max
+- AFROTC Form 88 must be maintained in vUPRG stating eligibility for entitlement
+- Determine 5 - yr eligibility prior to reaching 600 - day max
 ```
 TIME SAVING TIP: It is extremely important for you to get to know the invoice POCs at your
 university (i.e. student financial services, bursar, registrar, etc.). Having a good working relationship with
@@ -1437,23 +1437,23 @@ this individual(s) at the school will make your job of processing tuition paymen
 
 Processing Scholarship Invoices
 
- Request invoices after 45th day of school start date (at each university student attending) (Fall only)
- Cadet must be enrolled in AS and active in school NLT last day of term before AF pays tuition
+- Request invoices after 45th day of school start date (at each university student attending) (Fall only)
+- Cadet must be enrolled in AS and active in school NLT last day of term before AF pays tuition
 
 
 AFI 24- 301
 
- Scholarships not activated by last day of term will be withdrawn unless prior waiver is obtained from
+- Scholarships not activated by last day of term will be withdrawn unless prior waiver is obtained from
 RRFP; this is done by Form 22 Package/CPAR
- Ensure invoices are not submitted for repeat classes (this is a time consuming task; you may be able to
+- Ensure invoices are not submitted for repeat classes (this is a time consuming task; you may be able to
 save time if you work with the university to develop a product that identifies ‘repeat’ classes for you)
- Pay only authorized tuition and institutional fees annotated on the invoice
- Do not exceed scholarship length unless authorized extended entitlements are authorized and
+- Pay only authorized tuition and institutional fees annotated on the invoice
+- Do not exceed scholarship length unless authorized extended entitlements are authorized and
 approved
- Detachments have 5 calendar days, after receipt, to process an invoice
- Authorize payment only for courses required for degree completion. Review Form 48, current
+- Detachments have 5 calendar days, after receipt, to process an invoice
+- Authorize payment only for courses required for degree completion. Review Form 48, current
 transcript, and tuition invoice to avoid payments for repeat classes and confirm full time status
- Maintain invoice record for one full calendar year (CY) after AFROTC participation ends
+- Maintain invoice record for one full calendar year (CY) after AFROTC participation ends
 
 UNIT SUPPORT
 
@@ -1464,7 +1464,7 @@ AFI 34- 117
 Description **–** This program is the same as the GPC program at a base, with a few exceptions.
 (Approval official accounts, etc.).
 
- You will need to contact your Region Budget Analyst to initiate training, receive your card, and get
+- You will need to contact your Region Budget Analyst to initiate training, receive your card, and get
 access to Procurement Integrated Enterprise Environment (PIEE, the web based program used to
 reconcile your purchases)
 
@@ -1477,7 +1477,7 @@ Responsibility - While there will be different POCs for some of the above progra
 responsible for the use of the card. It is important that you establish a system to manage the different
 accounts and that you are aware of the regulations and rules established on spending for each program.
 
- Refer to the SAPM Checklist to insure you are running the program based on the checklist items
+- Refer to the SAPM Checklist to insure you are running the program based on the checklist items
 
 ## Vehicle Control Officer (VCO)
 
@@ -1485,13 +1485,13 @@ Description **–** Most AFROTC detachments are assigned a GSA fleet vehicle for
 
 **Commander’s** responsibilities:
 
- Appoint you as the VCO
- Brief cadre of the requirements for the use of AFROTC GOVs
+- Appoint you as the VCO
+- Brief cadre of the requirements for the use of AFROTC GOVs
 
 VCO responsibilities:
 
- Brief incoming cadre on the provisions of Section 1349b of Title 31, United State Code
- The following forms should be maintained in the vehicle or with the keys to the vehicle: AF Form
+- Brief incoming cadre on the provisions of Section 1349b of Title 31, United State Code
+- The following forms should be maintained in the vehicle or with the keys to the vehicle: AF Form
 
 
 ### AFROTCI 23-1001/AFI 36-2905_AFROTC_SUP/CADET UNIFORM MANAGEMENT GUIDE
@@ -1501,9 +1501,9 @@ AFROTCI 36-2011/HCI 91- 101
 3136 (AFROTC Mileage Log), AF Form 1800 (Operator’s Inspection Guide and Trouble Report), and
 DD Form 200 (Financial Liability Investigation of Property Loss) along with instructions on how to fill
 it out
- You should also maintain a transportation folder/binder with the above regulations, forms, and any
+- You should also maintain a transportation folder/binder with the above regulations, forms, and any
 other vehicle documents and receipts (for gas and services)
- Submit monthly mileage reports via GSA site: https://drivethru.gsa.gov/fmdtsys/dthome
+- Submit monthly mileage reports via GSA site: https://drivethru.gsa.gov/fmdtsys/dthome
 
 ```
 *NOTE: Mileage is also recorded when fuel is purchased
@@ -1512,76 +1512,76 @@ other vehicle documents and receipts (for gas and services)
 
 Description – The cadet uniform process is Issue in Kind.
 
- Every active, qualified cadet is authorized uniform issue
- You need to follow the Cadet Uniform Management Guide to run this program
+- Every active, qualified cadet is authorized uniform issue
+- You need to follow the Cadet Uniform Management Guide to run this program
 
 Responsibility
 
- Inventory, WINGS updates, uniform orders, and uniform distribution to cadets
- Inventory must be complete NET 1 July but, NLT 1 October
- Issue initial PTGs/Blues/OCPs IAW Cadet Uniform Guide, AFI 36-2905 AFROTC SUP, and
+- Inventory, WINGS updates, uniform orders, and uniform distribution to cadets
+- Inventory must be complete NET 1 July but, NLT 1 October
+- Issue initial PTGs/Blues/OCPs IAW Cadet Uniform Guide, AFI 36-2905 AFROTC SUP, and
 commander policy
- Manage any excess inventory; update DOS
+- Manage any excess inventory; update DOS
 
 ```
- Authorized only 20% of excess inventory
- UPC will calculate excess inventory by multiplying the projected freshman class by 20%. (Ex:
+- Authorized only 20% of excess inventory
+- UPC will calculate excess inventory by multiplying the projected freshman class by 20%. (Ex:
 60x20%=12)
- Contact HQ/DOSL to coordinate transfer of excess uniform items to other detachments
+- Contact HQ/DOSL to coordinate transfer of excess uniform items to other detachments
 ```
- A joint inventory must be accomplished immediately by the incoming and outgoing UPCs. (AFROTCI
+- A joint inventory must be accomplished immediately by the incoming and outgoing UPCs. (AFROTCI
 23 - 1001, Attachment 7 is required)
- Cadets not scheduled to attend FT or PDT must return uniform items as the end of each academic year
- If cadets fail to return uniforms, UPC must contact school admin to place a hold on cadet accounts
- If items are lost or damaged due to cadet negligence, UPC will collect full price of item(s) ,via cashiers
+- Cadets not scheduled to attend FT or PDT must return uniform items as the end of each academic year
+- If cadets fail to return uniforms, UPC must contact school admin to place a hold on cadet accounts
+- If items are lost or damaged due to cadet negligence, UPC will collect full price of item(s) ,via cashiers
 check or money order, and complete the DD Form 1131, Collection Voucher
- Commissioning cadets are authorized to purchase 1 full set of OCPs and 1 full set of Service Dress, at ½
+- Commissioning cadets are authorized to purchase 1 full set of OCPs and 1 full set of Service Dress, at ½
 price (UPC will utilize DD Form 1131, Collection Voucher)
- Order available uniform items in WINGS (utilize MILPERS GPC of items not available in WINGS;
+- Order available uniform items in WINGS (utilize MILPERS GPC of items not available in WINGS;
 MILPERS GPC holder will have a list of authorized sources)
- Utilize the SF1034 to for purchases over $3,000 or for items required from Military Clothing Sales (i.e.
+- Utilize the SF1034 to for purchases over $3,000 or for items required from Military Clothing Sales (i.e.
 service coats, officer flight caps, etc.) [SF1034 must be routed through HQ/DOSL]
 
 ## Safety Program
 
- Safety is an important and highly visible program
+- Safety is an important and highly visible program
 
- Contact Holm Center Unit Safety Rep to receive training within 30 days of appointment
+- Contact Holm Center Unit Safety Rep to receive training within 30 days of appointment
 
 
 AFMAN 23-220/AFMAN 33- 153
 
- Important information to be maintained and/or posted:
- AF Form 55 to be maintained on all active duty members assigned
- Safety Bulletin Board
+- Important information to be maintained and/or posted:
+- AF Form 55 to be maintained on all active duty members assigned
+- Safety Bulletin Board
 
 ```
- CC Safety Policy
- Emergency Contacts Information
- AFVA 91 - 307
- AF Form 457
- Unit Mishap Notification Procedures
- AETC Form 435, Mishap Data Worksheet (to be sent to Holm Center Unit Safety Rep within 3
+- CC Safety Policy
+- Emergency Contacts Information
+- AFVA 91 - 307
+- AF Form 457
+- Unit Mishap Notification Procedures
+- AETC Form 435, Mishap Data Worksheet (to be sent to Holm Center Unit Safety Rep within 3
 days after a mishap)
- Holm Center/AFROTC Safety Gram
+- Holm Center/AFROTC Safety Gram
 ```
 ```
- AETC Form 29A (Newcomer Safety Briefing) and AF Form 4392 (Pre-departure Safety Briefing) on
+- AETC Form 29A (Newcomer Safety Briefing) and AF Form 4392 (Pre-departure Safety Briefing) on
 all assigned personnel under the age of 26/Newly Commissioned LTs
 ```
 ```
- Monthly Safety Briefings need to be given and documented
+- Monthly Safety Briefings need to be given and documented
 ```
 ```
- Monthly Facility Inspections need to be performed and documented
+- Monthly Facility Inspections need to be performed and documented
 ```
 ```
- Quarterly Seatbelt Inspections need to be performed and documented using AETC Form 704
+- Quarterly Seatbelt Inspections need to be performed and documented using AETC Form 704
 ```
 Motorcycle Safety Monitor:
 
- Appointed by the Det/CC
- Verify motorcycle rider information has been uploaded in MUSTT database
+- Appointed by the Det/CC
+- Verify motorcycle rider information has been uploaded in MUSTT database
 
 ## Information Technology Asset Management (ITAM)
 
@@ -1590,18 +1590,18 @@ Det. This is reported to HQ AFROTC and completed annually, when items are added 
 there is a change in equipment custodian. HQ requires the training is conducted annually, prior to inventory,
 and certificates and updated appointment letters are provided.
 
- New equipment custodians should be appointed 45 days prior to the departure of the current custodian
+- New equipment custodians should be appointed 45 days prior to the departure of the current custodian
 appointed by the CC in writing
 
- The Equipment Custodian will ensure that all government owned computer items are on the inventory and
+- The Equipment Custodian will ensure that all government owned computer items are on the inventory and
 have an Information Technology Asset Management System (ITAMs) bar code label (or equivalent)
 attached.
 
- EC will need to be aware of equipment need (refresh window)
+- EC will need to be aware of equipment need (refresh window)
 
- ITEC training requirements: Slides provided by HQ
+- ITEC training requirements: Slides provided by HQ
 
- EC will ensure all items not physically located in the detachment are checked out to a cadre member by
+- EC will ensure all items not physically located in the detachment are checked out to a cadre member by
 utilizing the AF Form 1297
 
 
@@ -1613,9 +1613,9 @@ are more than 50 miles (or one hour's drive time) from a military hospital or cl
 
 How to Enroll **–** 3 Options;
 
- Online via the Beneficiary Web Enrollment website
- Phone (East Region: 1 - 800 - 444 - 5445 or West Region: 1- 844 - 866 - 9378 )
- Mail the enrollment form to your regional contractor (mailing address on form)
+- Online via the Beneficiary Web Enrollment website
+- Phone (East Region: 1 - 800 - 444 - 5445 or West Region: 1- 844 - 866 - 9378 )
+- Mail the enrollment form to your regional contractor (mailing address on form)
 
 ```
 East Region Form
@@ -1625,7 +1625,7 @@ West Region Form
 ```
 Web Site **–** https://tricare.mil/primeremote?p=1
 
- Ensure ALL family members are under TPR plan. If you have a new dependent you will have to request
+- Ensure ALL family members are under TPR plan. If you have a new dependent you will have to request
 TRP, if not done they will automatically enrolled the new dependent under Tricare Select.
 
 ## Dental
@@ -1705,7 +1705,7 @@ stationed at your Detachment (to include AFIT and AECP). Manning numbers are rep
 AFROTC and funds are electronically transferred into an account that should already be set up by the time
 you arrived at your Det.
 
- This is not necessarily an NCO function but does dictate it has to be an MSgt, or above, if not an officer
+- This is not necessarily an NCO function but does dictate it has to be an MSgt, or above, if not an officer
 
 ## ACRONYMS
 AAT – Army Airborne Training
