@@ -1,34 +1,26 @@
 # Trouble Tickets  
 
 ## How to Submit
-Thursday, December 9, 2021	3:16 PM
 
-1. **Select the "Customer Service" tile**
-
-1. **Select the "Add New" tab**
-
-
-1. **Select ticket "Category"**
-2. **Select/input specific data in the section below "Incident ID"**
+1. **Log into WINGS and select the "Customer Service" tile**
+2. **On the left hand side of the screen, select "Trouble Ticket"**
+2. **Below the heading "Trouble Ticket," Select the "Add New Value" tab**
+3. **Select ticket "Category"**
+4. **Select/input specific data in the section below "Incident ID"**
 	**\*The fields here will appear or remain hidden based on the "Category"  selected in step 3**
-3. **Input problem description**
-4. **Add attachments**
+5. **Input problem description**
+6. **Add attachments**
 	**\*Fill in the "Description" field and select the "Attach" button**
 	**\*Select the "+" icon to upload additional files**
-5. **Select the "Save" button then _STOP_**
-6. **Record the "Incident ID"**
+7. **Select the "Save" button then _STOP_**
+8. **Record the "Incident ID"**
 	**\*Detachments are required to keep data on all monetary-related trouble  tickets**
 	**\*\*It is good practice to develop an internal tracker to monitor the status of  all trouble tickets**
 
 ## How to Review
-Tuesday, December 14, 2021	1:54 PM
 
 1. Select the "Customer Service" tile
-
-1. Select "Trouble Ticket"
-   
-2. Input desired "Search Criteria"
-   
-3. Select the "Search" button
-
-1. Select the appropriate trouble ticket hyperlink from the available "Search Results"
+2. Select "Trouble Ticket" 
+3. Input desired "Search Criteria"  
+4. Select the "Search" button
+5. Select the appropriate trouble ticket hyperlink from the available "Search Results"
