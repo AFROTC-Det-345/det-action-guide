@@ -41,7 +41,7 @@
 - See below for terms of entitlements:
 
 **Award Major**: type of degree the cadet is pursuing (this tab is extremely important). It explains what degree the scholarship cadet is pursuing. Whether or not the cadet is entitled to "extended entitlements" will depend on what degree the cadet is pursuing. Extended entitlements for scholarship cadets is only granted if they have a Secretary of the AF approved 5 year degree.
-One week prior to an AS400 SPRING term **end **date, you must route an extended entitlements memorandum up to AFROTC/RRUE afrotc.rrue@us.af.mil.
+One week prior to an AS400 SPRING term **end** date, you must route an extended entitlements memorandum up to AFROTC/RRUE afrotc.rrue@us.af.mil.
 
 Below is the template for extended entitlements requests, and Attachment 4 for SAF-Approved 5-Year Majors:
 
