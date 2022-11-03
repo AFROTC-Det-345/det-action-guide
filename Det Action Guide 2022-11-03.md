@@ -1,20 +1,13 @@
-Location
-Tuesday, February 1, 2022
-9:52 AM
 The current AFROTC Detachment Action Guide is located on MS Teams.
- 
+
 ROTC – Reserve Officer Training Corps > CCVT – Cadre Training > Files > 5. Training Resources
- 
- 
- 
-Purpose & Scope
+
+## Purpose & Scope
 Tuesday, February 1, 2022
 9:52 AM
 The Air Force Reserve Officer Training Corps (AFROTC) Detachment Action Guide is an interactive and collaborative tool developed and managed by the Cadre Development Team (CDT), under the guise of AFROTC/CCVT, Cadre Training.  This guide is designed to provide cadre with resources, information, and step-by-step instructions.  Information and processes found in this guide are derived from Air Force, Air Education & Training Command, Air University, Holm Center, and AFROTC regulations and resources.  Best practices from AFROTC Regions and Sub-Regions have also been incorporated into this guide.  The AFROTC Detachment Action Guide is a living tool, established with all cadre in mind.  This guide has been developed with input from Officers and Enlisted cadre from across the AFROTC enterprise, in an effort to generate the most robust training resource available.  The end goal is for this to be the most comprehensive and up-to-date source for accomplishment of detachment-level processes, in support of officer accessions.
- 
- 
- 
-Authority & Responsibility
+
+## Authority & Responsibility
 Tuesday, February 1, 2022
 9:53 AM
 The CDT lead, under the supervision of CCVT, is the authority for maintaining currency of the Detachment Action Guide.  Cadre assigned to the CDT are responsible for updating, removing, and/or adding information and processes accordingly and in a timely manner.  All changes to the Detachment Action Guide will support HQ AFROTC, or higher HQ, directives, initiatives, programs, and processes.  Members will establish an internal process for review that ensures currency but, does not detract from detachment obligations.  The CDT lead and CCVT will review and authorize all changes/updates or appoint a CDT member to do so.
@@ -51,6 +44,7 @@ Contracting How to Guide/Forms
 Wednesday, November 24, 2021
 11:42 AM
 Utilize the AFROTC Form 63 (63 Checklist) to verify all requirements are met.
+
 <<afrotc063.pdf>>
  
 Enlistment (Contracting) Eligibility Requirements:
@@ -744,7 +738,7 @@ b.	I verify that their Estimated Last Day of Pay has not passed. (For training o
  
 •	Now the reason this is section comes in handy is because when you click on "details" you can see if something went wrong in the system when updating any cadet information.
  
-•	Below is an example of one of our cadets who was not on the 257 report.
+	Below is an example of one of our cadets who was not on the 257 report.
  
  
  
